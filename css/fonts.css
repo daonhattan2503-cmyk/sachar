@@ -1,0 +1,8 @@
+/* Full local font files include Vietnamese glyphs. Licence: assets/fonts/OFL.txt. */
+@font-face{font-family:"Be Vietnam Pro";font-style:normal;font-weight:400;font-display:swap;src:url("../assets/fonts/BeVietnamPro-Regular.ttf") format("truetype")}
+@font-face{font-family:"Be Vietnam Pro";font-style:normal;font-weight:600;font-display:swap;src:url("../assets/fonts/BeVietnamPro-SemiBold.ttf") format("truetype")}
+@font-face{font-family:"Be Vietnam Pro";font-style:normal;font-weight:700;font-display:swap;src:url("../assets/fonts/BeVietnamPro-Bold.ttf") format("truetype")}
+@font-face{font-family:"Be Vietnam Pro";font-style:normal;font-weight:800;font-display:swap;src:url("../assets/fonts/BeVietnamPro-ExtraBold.ttf") format("truetype")}
+@font-face{font-family:"Be Vietnam Pro";font-style:italic;font-weight:400;font-display:swap;src:url("../assets/fonts/BeVietnamPro-Italic.ttf") format("truetype")}
+:root{--font-text:"Be Vietnam Pro","Segoe UI",Arial,sans-serif}
+html{font-family:var(--font-text)}

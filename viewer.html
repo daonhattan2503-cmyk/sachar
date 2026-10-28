@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f5f5f0"><title>Quan sát mô hình · Thế giới hạt</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml"><link rel="stylesheet" href="css/fonts.css?v=2"><link rel="stylesheet" href="css/site.css?v=2">
+  <script type="module" src="js/viewer.js"></script>
+</head>
+<body>
+  <header class="site-header wrap"><a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">h.</span><span>thế giới hạt<span class="brand-sub">PHÒNG KHÁM PHÁ 3D</span></span></a><nav aria-label="Điều hướng chính"><a id="back-book" class="nav-link" href="index.html">← Về trang sách</a><a class="nav-link" href="qr.html">Tạo mã QR ↗</a></nav></header>
+  <main class="wrap viewer-main">
+    <div id="page-error" class="notice error" hidden role="alert"></div>
+    <div id="viewer-content" hidden>
+      <div class="viewer-heading"><div><p id="scene-kicker" class="eyebrow"></p><h1 id="scene-title"></h1></div><div class="heading-actions"><button id="share" class="button button-outline" type="button">Chia sẻ / QR ↗</button><a id="other-model" class="text-link" href="index.html">Mô hình khác →</a></div></div>
+      <div class="viewer-layout">
+        <section class="stage-column" aria-label="Khu vực xem mô hình">
+          <div class="mode-tabs" role="group" aria-label="Chọn chế độ xem"><button id="tab-3d" class="mode-tab selected" aria-pressed="true" type="button">Mô hình 3D</button><button id="tab-video" class="mode-tab" aria-pressed="false" type="button" hidden>Video minh hoạ</button><span class="stage-label">TƯƠNG TÁC TRỰC TIẾP</span></div>
+          <div class="model-stage" id="model-stage">
+            <div class="stage-grid" aria-hidden="true"></div>
+            <div id="viewer-mount"></div>
+            <div id="load-overlay" class="load-overlay" role="status"><span class="spinner"></span><strong id="load-label">Đang mở mô hình…</strong><progress id="load-progress" max="1" value="0" aria-label="Tiến trình tải mô hình"></progress></div>
+            <div id="model-error" class="model-error" hidden role="alert"><strong>Chưa mở được mô hình</strong><p id="model-error-text"></p><button id="retry" class="button button-primary" type="button">Tải lại mô hình</button></div>
+            <div class="stage-top"><span class="pill"><span class="live-dot"></span> XEM 3D</span><button id="reset-camera" class="icon-button" type="button" aria-label="Đặt lại góc nhìn" title="Đặt lại góc nhìn">↺</button></div>
+            <p class="stage-hint">Kéo để xoay <span>·</span> Chụm hai ngón để thu phóng</p>
+          </div>
+          <div id="video-stage" class="video-stage" hidden><video id="fallback-video" controls playsinline preload="metadata" aria-label="Video minh hoạ"></video><p id="video-error" class="notice error" hidden role="alert">Chưa mở được video. Hãy quay lại chế độ 3D hoặc kiểm tra kết nối.</p></div>
+          <div class="viewer-controls"><button id="animation-toggle" class="button button-outline" type="button" hidden disabled>Tạm dừng chuyển động</button><button id="rotate-toggle" class="button button-subtle" type="button" aria-pressed="false" disabled>Tự xoay góc nhìn</button><span id="load-status" class="load-status" role="status">Đang tải…</span></div>
+        </section>
+        <aside class="scene-sidebar">
+          <div class="observation"><p class="eyebrow">ĐIỀU EM CÓ THỂ QUAN SÁT</p><p id="scene-description" class="description"></p><ul id="observations" class="observation-list"></ul><div id="motion-note" class="motion-note"></div></div>
+          <div class="ar-card"><span class="ar-icon" aria-hidden="true">⌗</span><h2>Mang mô hình vào lớp học</h2><p>Đặt mô hình lên bàn và di chuyển điện thoại để nhìn từ các phía.</p><button id="activate-ar" class="button button-primary full-width" type="button" disabled>Đang kiểm tra AR…</button><p id="ar-status" class="ar-status" role="status">Hãy đợi mô hình tải xong.</p><details><summary>Cách mở AR</summary><ol><li>Mở trang bằng Safari trên iPhone hoặc Chrome trên Android hỗ trợ AR.</li><li>Bấm nút AR và cho phép camera khi được hỏi.</li><li>Hướng camera vào mặt bàn có đủ ánh sáng, di chuyển nhẹ rồi chạm để đặt mô hình.</li></ol><p>AR phụ thuộc thiết bị. Hoạt hình có thể khác giữa chế độ 3D và AR trên iPhone.</p></details></div>
+          <a id="model-file" class="download-link" href="#" download>Tải tệp mô hình GLB ↓</a>
+        </aside>
+      </div>
+    </div>
+    <noscript><p class="notice error">Hãy bật JavaScript để xem mô hình.</p></noscript>
+  </main>
+  <dialog id="share-dialog" class="share-dialog"><div class="dialog-heading"><h2>Chia sẻ mô hình</h2><button id="close-share" class="icon-button" aria-label="Đóng cửa sổ chia sẻ" type="button">×</button></div><p>QR mở đúng trang này. Người xem có thể bật AR trên điện thoại hỗ trợ.</p><div id="share-qr" class="qr-display"></div><p id="share-message" class="small-copy"></p><label for="share-url">Đường dẫn mô hình</label><input id="share-url" readonly><div class="dialog-actions"><button id="copy-share" class="button button-primary" type="button">Sao chép liên kết</button><button id="download-share" class="button button-outline" type="button" disabled>Tải QR PNG</button></div><a href="qr.html" class="text-link">Tạo QR sau khi đăng web →</a></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <footer class="site-footer wrap"><span>thế giới hạt <span class="footer-dot">/</span> quan sát để hiểu</span><a href="huong-dan.html">Hướng dẫn sử dụng ↗</a></footer>
+</body>
+</html>

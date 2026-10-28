@@ -1,0 +1,51 @@
+{
+  "publicBaseUrl": "",
+  "scenes": [
+    {
+      "id": "ptk",
+      "title": "Chuyển động thể khí",
+      "shortTitle": "Thể khí",
+      "kicker": "01 / CHUYỂN ĐỘNG CỦA CÁC HẠT",
+      "theme": "gas",
+      "description": "Quan sát các hạt chuyển động trong một bình chứa. Thử tạm dừng để so sánh vị trí và khoảng cách giữa chúng.",
+      "observations": [
+        "Các hạt phân bố trong không gian của bình chứa.",
+        "Các hạt liên tục thay đổi vị trí theo hoạt hình mô phỏng.",
+        "Đây là mô hình minh hoạ, không phải hình ảnh hay tỉ lệ thật của hạt."
+      ],
+      "motionNote": "Có hoạt hình · Có thể tạm dừng để quan sát.",
+      "modelSrc": "assets/models/ptk.glb",
+      "iosSrc": "",
+      "videoSrc": "",
+      "posterSrc": "",
+      "defaultView": "3d",
+      "animationName": "TatCaCacHat",
+      "sizeLabel": "3,58 MB",
+      "hasAnimation": true,
+      "bookPage": 7
+    },
+    {
+      "id": "ptr",
+      "title": "Cấu trúc thể rắn",
+      "shortTitle": "Thể rắn",
+      "kicker": "02 / CÁCH SẮP XẾP CỦA CÁC HẠT",
+      "theme": "solid",
+      "description": "Xoay mô hình để nhìn cách các hạt được sắp xếp trong không gian và so sánh với mô hình thể khí.",
+      "observations": [
+        "Quan sát sự sắp xếp có trật tự của các hạt trong mô hình này.",
+        "So sánh khoảng cách và vị trí các hạt với mô hình thể khí.",
+        "Các thanh nối là cách minh hoạ; không đại diện cho mọi loại chất rắn."
+      ],
+      "motionNote": "Mô hình tĩnh · Chưa thể hiện dao động của hạt. Các hạt trong chất rắn thực tế vẫn chuyển động quanh vị trí cân bằng.",
+      "modelSrc": "assets/models/ptr.glb",
+      "iosSrc": "",
+      "videoSrc": "",
+      "posterSrc": "",
+      "defaultView": "3d",
+      "animationName": "",
+      "sizeLabel": "5,31 MB",
+      "hasAnimation": false,
+      "bookPage": 5
+    }
+  ]
+}

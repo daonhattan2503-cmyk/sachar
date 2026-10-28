@@ -1,0 +1,337 @@
+[
+  {
+    "original": {
+      "file": "ptk.glb",
+      "bytes": 3583172,
+      "meshes": 51,
+      "nodes": 52,
+      "vertices": 99392,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Hat_0.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_1.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_2.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_3.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_4.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_5.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_6.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_7.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_8.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_9.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_10.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_11.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_12.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_13.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_14.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_15.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_16.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_17.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_18.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_19.002",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_20",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_21",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_22",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_23",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_24",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_25",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_26",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_27",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_28",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_29",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_30",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_31",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_32",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_33",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_34",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_35",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_36",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_37",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_38",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_39",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_40",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_41",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_42",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_43",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_44",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_45",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_46",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_47",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_48",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động Hat_49",
+          "channels": 2,
+          "seconds": 10.416666666666666
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "ptk.glb",
+      "bytes": 3579528,
+      "meshes": 51,
+      "nodes": 53,
+      "vertices": 99392,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 100,
+          "seconds": 10.416666666666666
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -2,
+        -3,
+        -2
+      ],
+      "max": [
+        2,
+        3,
+        2
+      ]
+    },
+    "scaleFactor": 0.04,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 50
+  },
+  {
+    "original": {
+      "file": "ptr.glb",
+      "bytes": 5315764,
+      "meshes": 209,
+      "nodes": 209,
+      "vertices": 154816,
+      "embeddedImages": 0,
+      "animations": [],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat"
+      ]
+    },
+    "web": {
+      "file": "ptr.glb",
+      "bytes": 5312948,
+      "meshes": 209,
+      "nodes": 210,
+      "vertices": 154816,
+      "embeddedImages": 0,
+      "animations": [],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat"
+      ]
+    },
+    "originalWorldBounds": {
+      "min": [
+        -3,
+        -3,
+        -3
+      ],
+      "max": [
+        3,
+        3,
+        3
+      ]
+    },
+    "scaleFactor": 0.04,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 0
+  }
+]
