@@ -46,6 +46,23 @@
       "sizeLabel": "5,31 MB",
       "hasAnimation": false,
       "bookPage": 5
+    },
+    {
+    "id": "the-long",
+    "bookPage": 6,
+    "title": "Mô hình thể lỏng",
+    "shortTitle": "Thể lỏng",
+    "description": "Quan sát cách sắp xếp các hạt ở thể lỏng.",
+    "observations": [],
+    "motionNote": "Mô hình minh hoạ thể lỏng.",
+    "modelSrc": "assets/models/ptl.glb",
+    "iosSrc": "",
+    "videoSrc": "",
+    "posterSrc": "",
+    "defaultView": "3d",
+    "animationName": "",
+    "hasAnimation": false,
+    "sizeLabel": "GLB"
     }
   ]
 }
