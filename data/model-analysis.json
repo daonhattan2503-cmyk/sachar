@@ -1,7 +1,85 @@
 [
   {
     "original": {
-      "file": "ptk.glb",
+      "file": "ran.glb",
+      "bytes": 5315764,
+      "meshes": 209,
+      "nodes": 209,
+      "vertices": 154816,
+      "embeddedImages": 0,
+      "animations": [],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat"
+      ]
+    },
+    "web": {
+      "file": "the-ran.glb",
+      "bytes": 5312948,
+      "meshes": 209,
+      "nodes": 210,
+      "vertices": 154816,
+      "embeddedImages": 0,
+      "animations": [],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat"
+      ]
+    },
+    "originalWorldBounds": {
+      "min": [
+        -3,
+        -3,
+        -3
+      ],
+      "max": [
+        3,
+        3,
+        3
+      ]
+    },
+    "scaleFactor": 0.04,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 0
+  },
+  {
+    "original": {
+      "file": "long.glb",
+      "bytes": 15417176,
+      "meshes": 76,
+      "nodes": 77,
+      "vertices": 446424,
+      "embeddedImages": 0,
+      "animations": [],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "the-long.glb",
+      "bytes": 15416732,
+      "meshes": 76,
+      "nodes": 78,
+      "vertices": 446424,
+      "embeddedImages": 0,
+      "animations": [],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -3,
+        -3,
+        -3
+      ],
+      "max": [
+        3,
+        3,
+        3
+      ]
+    },
+    "scaleFactor": 0.04,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 0
+  },
+  {
+    "original": {
+      "file": "khi.glb",
       "bytes": 3583172,
       "meshes": 51,
       "nodes": 52,
@@ -262,7 +340,7 @@
       "extensionsUsed": []
     },
     "web": {
-      "file": "ptk.glb",
+      "file": "the-khi.glb",
       "bytes": 3579528,
       "meshes": 51,
       "nodes": 53,
@@ -295,43 +373,2765 @@
   },
   {
     "original": {
-      "file": "ptr.glb",
-      "bytes": 5315764,
-      "meshes": 209,
-      "nodes": 209,
-      "vertices": 154816,
+      "file": "nong_chay.glb",
+      "bytes": 2207368,
+      "meshes": 65,
+      "nodes": 65,
+      "vertices": 61056,
       "embeddedImages": 0,
-      "animations": [],
+      "animations": [
+        {
+          "name": "Hành Động Hình Cầu.054",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.055",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.056",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.057",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.058",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.059",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.060",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.061",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.062",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.063",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.064",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.065",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.066",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.067",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.068",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.069",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.070",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.071",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.072",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.073",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.074",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.075",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.076",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.077",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.078",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.079",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.080",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.037",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.038",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.039",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.040",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.041",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.042",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.043",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.044",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.045",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.046",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.047",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.048",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.049",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.050",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.051",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.052",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.053",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.054",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.055",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.056",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.057",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.058",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.059",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.060",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.061",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.062",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.063",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.064",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.065",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.066",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.067",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.068",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.069",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.070",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.071",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.072",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động NgọnLửa",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "nong-chay.glb",
+      "bytes": 2201284,
+      "meshes": 65,
+      "nodes": 66,
+      "vertices": 61056,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 100,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -2.5,
+        -3.0,
+        -2.5
+      ],
+      "max": [
+        2.5,
+        2.0,
+        2.5
+      ]
+    },
+    "scaleFactor": 0.048,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 64
+  },
+  {
+    "original": {
+      "file": "dong_dac.glb",
+      "bytes": 10386964,
+      "meshes": 95,
+      "nodes": 95,
+      "vertices": 293016,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Hình Cầu.241",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.242",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.243",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.244",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.245",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.246",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.247",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.248",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.249",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.250",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.251",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.252",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.253",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.254",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.255",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.256",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.257",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.258",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.259",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.260",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.261",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.262",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.263",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.264",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.265",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.266",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.267",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.268",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.269",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.270",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.271",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.272",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.273",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.274",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.275",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.276",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.277",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.278",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.279",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.280",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.281",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.282",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.283",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.284",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.285",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.286",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.287",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.288",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.289",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.290",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.291",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.292",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.293",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.294",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.295",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.296",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.297",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.217",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.218",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.219",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.220",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.221",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.222",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.223",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.224",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.225",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.226",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.227",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.228",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.229",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.230",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.231",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.232",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.233",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.234",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.235",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.236",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.237",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.238",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.239",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.240",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.241",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.242",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.243",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.244",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.245",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.246",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.247",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.248",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.249",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.250",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.251",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Trụ.252",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "dong-dac.glb",
+      "bytes": 10378144,
+      "meshes": 95,
+      "nodes": 96,
+      "vertices": 293016,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 159,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -2.5,
+        -3.0,
+        -2.5
+      ],
+      "max": [
+        2.5,
+        2.450000047683716,
+        2.5
+      ]
+    },
+    "scaleFactor": 0.0440366968624159,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 93
+  },
+  {
+    "original": {
+      "file": "bay_hoi.glb",
+      "bytes": 1935144,
+      "meshes": 29,
+      "nodes": 29,
+      "vertices": 54144,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Hình Cầu",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.001",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.002",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.003",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.004",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.005",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.006",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.007",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.008",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.009",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.010",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.011",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.012",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.013",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.014",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.015",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.016",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.017",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.018",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.019",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.020",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.021",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.022",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.023",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.024",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.025",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.026",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Nón",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        }
+      ],
       "extensionsUsed": [
-        "KHR_materials_clearcoat"
+        "KHR_materials_emissive_strength"
       ]
     },
     "web": {
-      "file": "ptr.glb",
-      "bytes": 5312948,
-      "meshes": 209,
-      "nodes": 210,
-      "vertices": 154816,
+      "file": "bay-hoi.glb",
+      "bytes": 1932552,
+      "meshes": 29,
+      "nodes": 30,
+      "vertices": 54144,
       "embeddedImages": 0,
-      "animations": [],
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 28,
+          "seconds": 8.333333333333334
+        }
+      ],
       "extensionsUsed": [
-        "KHR_materials_clearcoat"
+        "KHR_materials_emissive_strength"
       ]
     },
     "originalWorldBounds": {
       "min": [
-        -3,
-        -3,
-        -3
+        -2.5,
+        -3.0,
+        -2.5
       ],
       "max": [
-        3,
-        3,
-        3
+        2.5,
+        2.0,
+        2.5
       ]
     },
-    "scaleFactor": 0.04,
+    "scaleFactor": 0.048,
     "maxDimensionMeters": 0.24,
-    "mergedOriginalClips": 0
+    "mergedOriginalClips": 28
+  },
+  {
+    "original": {
+      "file": "suong_mu.glb",
+      "bytes": 9351428,
+      "meshes": 137,
+      "nodes": 137,
+      "vertices": 268224,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Hình Cầu",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.001",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.002",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.003",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.004",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.005",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.006",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.007",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.008",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.009",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.010",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.011",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.012",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.013",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.014",
+          "channels": 2,
+          "seconds": 5
+        },
+        {
+          "name": "Hành Động Hình Cầu.015",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.016",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.017",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.018",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.019",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.020",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.021",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.022",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.023",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.024",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.025",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.026",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.027",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.028",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.029",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.030",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.031",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.032",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.033",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.034",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.035",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.036",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.037",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.038",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.039",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.040",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.041",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.042",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.043",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.044",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.045",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.046",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.047",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.048",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.049",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.050",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.051",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.052",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.053",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.054",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.055",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.056",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.057",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.058",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.059",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.060",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.061",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.062",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.063",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.064",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.065",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.066",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.067",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.068",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.069",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.070",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.071",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.072",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.073",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.074",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.075",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.076",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.077",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.078",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.079",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.080",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.081",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.082",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.083",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.084",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.085",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.086",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.087",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.088",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.089",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.090",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.091",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.092",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.093",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.094",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.095",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.096",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.097",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.098",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.099",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.100",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.101",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.102",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.103",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.104",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.105",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.106",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.107",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.108",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.109",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.110",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.111",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.112",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.113",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.114",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.115",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.116",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.117",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.118",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.119",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.120",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.121",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.122",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.123",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.124",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.125",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.126",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.127",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.128",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.129",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.130",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.131",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.132",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.133",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.134",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "suong-mu.glb",
+      "bytes": 9338680,
+      "meshes": 137,
+      "nodes": 138,
+      "vertices": 268224,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 270,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -2.5,
+        -2.5000000968575478,
+        -2.5
+      ],
+      "max": [
+        2.5,
+        2.5,
+        2.5
+      ]
+    },
+    "scaleFactor": 0.04799999907016756,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 135
+  },
+  {
+    "original": {
+      "file": "su_soi.glb",
+      "bytes": 2045872,
+      "meshes": 32,
+      "nodes": 32,
+      "vertices": 54336,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Hình Cầu",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.001",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.002",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.003",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.004",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.005",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.006",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.007",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.008",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.009",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.010",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.011",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.012",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.013",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.014",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.015",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.016",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.017",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.018",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.019",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.020",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.021",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.022",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.023",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.024",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.025",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Cầu.026",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Nón",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Nón.001",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động Hình Nón.002",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": [
+        "KHR_materials_emissive_strength"
+      ]
+    },
+    "web": {
+      "file": "su-soi.glb",
+      "bytes": 2043144,
+      "meshes": 32,
+      "nodes": 33,
+      "vertices": 54336,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 57,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": [
+        "KHR_materials_emissive_strength"
+      ]
+    },
+    "originalWorldBounds": {
+      "min": [
+        -2.5,
+        -3.700000047683716,
+        -2.5
+      ],
+      "max": [
+        2.5,
+        3.0,
+        2.5
+      ]
+    },
+    "scaleFactor": 0.03582089526745173,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 30
+  },
+  {
+    "original": {
+      "file": "lam_muoi_tu_nuoc_bien.glb",
+      "bytes": 2875584,
+      "meshes": 114,
+      "nodes": 114,
+      "vertices": 62071,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động BeMatMuoi",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.001",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.002",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.003",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.004",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.005",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.006",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.007",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.008",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.009",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.010",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.011",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.012",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.013",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.014",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.015",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.016",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.017",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.018",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.019",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.020",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.021",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.022",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.023",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.024",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.025",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.026",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.027",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.028",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.029",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.030",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.031",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.032",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.033",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.034",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.035",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.036",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.037",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.038",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.039",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.040",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.041",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.042",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.043",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.044",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.045",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.046",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.047",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.048",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.049",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.050",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.051",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.052",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.053",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.054",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.055",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.056",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.057",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.058",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.059",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.060",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.061",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.062",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.063",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.064",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.065",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.066",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.067",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.068",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.069",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.070",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.071",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.072",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.073",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.074",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.075",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.076",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.077",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.078",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HatMuoi.079",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.001",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.002",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.003",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.004",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.005",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.006",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.007",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.008",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.009",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.010",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.011",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.012",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.013",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.014",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.015",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.016",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.017",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.018",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.019",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.020",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.021",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.022",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.023",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.024",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.025",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.026",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.027",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.028",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động HoiNuoc.029",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động NuocBien",
+          "channels": 2,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_emissive_strength"
+      ]
+    },
+    "web": {
+      "file": "lam-muoi-tu-nuoc-bien.glb",
+      "bytes": 2866460,
+      "meshes": 114,
+      "nodes": 115,
+      "vertices": 62071,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 224,
+          "seconds": 8.333333333333334
+        }
+      ],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_emissive_strength"
+      ]
+    },
+    "originalWorldBounds": {
+      "min": [
+        -3.0,
+        -0.9500000178813934,
+        -4.5
+      ],
+      "max": [
+        4.499999701976776,
+        5.0,
+        3.0
+      ]
+    },
+    "scaleFactor": 0.032,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 112
+  },
+  {
+    "original": {
+      "file": "lam_nen.glb",
+      "bytes": 536032,
+      "meshes": 28,
+      "nodes": 28,
+      "vertices": 12216,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động BatTron_HoMieng.002",
+          "channels": 2,
+          "seconds": 10
+        },
+        {
+          "name": "Hành Động DongNuocSap.003",
+          "channels": 1,
+          "seconds": 8.333333333333334
+        },
+        {
+          "name": "Hành Động NgonLua.007",
+          "channels": 1,
+          "seconds": 10.416666666666666
+        },
+        {
+          "name": "Hành Động SapTrongBat.003",
+          "channels": 3,
+          "seconds": 7.916666666666667
+        },
+        {
+          "name": "Hành Động SapTrongKhuon.006",
+          "channels": 2,
+          "seconds": 7.916666666666667
+        },
+        {
+          "name": "Hành Động Vun.080",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.081",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.082",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.083",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.084",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.085",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.086",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.087",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.088",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.089",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.090",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.091",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.092",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.093",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.094",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.095",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.096",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.097",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.098",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        },
+        {
+          "name": "Hành Động Vun.099",
+          "channels": 1,
+          "seconds": 2.9166666666666665
+        }
+      ],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_emissive_strength"
+      ]
+    },
+    "web": {
+      "file": "lam-nen.glb",
+      "bytes": 534308,
+      "meshes": 28,
+      "nodes": 29,
+      "vertices": 12216,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 29,
+          "seconds": 10.416666666666666
+        }
+      ],
+      "extensionsUsed": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_emissive_strength"
+      ]
+    },
+    "originalWorldBounds": {
+      "min": [
+        -3.5,
+        -2.0000000596046448,
+        -1.2999999523162842
+      ],
+      "max": [
+        3.100000023841858,
+        0.40000003576278687,
+        1.2999999523162842
+      ]
+    },
+    "scaleFactor": 0.036363636232276265,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 25
   }
 ]

@@ -7,7 +7,21 @@ import struct
 from pathlib import Path
 
 SITE = Path(__file__).resolve().parents[1]
-SOURCE = SITE.parent
+SOURCE = SITE.parent / '3D'
+
+# Tên tệp ở thư mục 3D và tên dùng công khai trên website. Không sửa tệp nguồn.
+MODELS = {
+    'ran.glb': 'the-ran.glb',
+    'long.glb': 'the-long.glb',
+    'khi.glb': 'the-khi.glb',
+    'nong_chay.glb': 'nong-chay.glb',
+    'dong_dac.glb': 'dong-dac.glb',
+    'bay_hoi.glb': 'bay-hoi.glb',
+    'suong_mu.glb': 'suong-mu.glb',
+    'su_soi.glb': 'su-soi.glb',
+    'lam_muoi_tu_nuoc_bien.glb': 'lam-muoi-tu-nuoc-bien.glb',
+    'lam_nen.glb': 'lam-nen.glb',
+}
 
 
 def read_glb(path):
@@ -110,8 +124,8 @@ def main():
     reports = []
     dest = SITE / 'assets' / 'models'
     dest.mkdir(parents=True, exist_ok=True)
-    for filename in ('ptk.glb', 'ptr.glb'):
-        source = SOURCE / filename
+    for source_name, target_name in MODELS.items():
+        source = SOURCE / source_name
         data, chunks = read_glb(source)
         original = describe(source, data)
         lo, hi = world_bounds(data)
@@ -123,7 +137,7 @@ def main():
                     'translation': [-(hi[0]+lo[0])/2*factor, -lo[1]*factor, -(hi[2]+lo[2])/2*factor]}
             scene['nodes'] = [len(data['nodes'])]
             data['nodes'].append(root)
-        target = dest / filename
+        target = dest / target_name
         write_glb(target, data, chunks)
         reports.append({'original': original, 'web': describe(target, data),
                         'originalWorldBounds': {'min': lo, 'max': hi},
