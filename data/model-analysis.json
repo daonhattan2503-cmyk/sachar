@@ -42,43 +42,6 @@
   },
   {
     "original": {
-      "file": "long.glb",
-      "bytes": 15417176,
-      "meshes": 76,
-      "nodes": 77,
-      "vertices": 446424,
-      "embeddedImages": 0,
-      "animations": [],
-      "extensionsUsed": []
-    },
-    "web": {
-      "file": "the-long.glb",
-      "bytes": 15416732,
-      "meshes": 76,
-      "nodes": 78,
-      "vertices": 446424,
-      "embeddedImages": 0,
-      "animations": [],
-      "extensionsUsed": []
-    },
-    "originalWorldBounds": {
-      "min": [
-        -3,
-        -3,
-        -3
-      ],
-      "max": [
-        3,
-        3,
-        3
-      ]
-    },
-    "scaleFactor": 0.04,
-    "maxDimensionMeters": 0.24,
-    "mergedOriginalClips": 0
-  },
-  {
-    "original": {
       "file": "khi.glb",
       "bytes": 3583172,
       "meshes": 51,
@@ -3133,5 +3096,457 @@
     "scaleFactor": 0.036363636232276265,
     "maxDimensionMeters": 0.24,
     "mergedOriginalClips": 25
+  },
+  {
+    "original": {
+      "file": "long-moi.glb",
+      "bytes": 5396320,
+      "meshes": 51,
+      "nodes": 52,
+      "vertices": 108300,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động H2O_0.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_1.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_2.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_3.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_4.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_5.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_6.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_7.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_8.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_9.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_10.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_11.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_12.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_13.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_14.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_15.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_16.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_17.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_18.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_19.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_20.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_21.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_22.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_23.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_24.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_25.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_26.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_27.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_28.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_29.001",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_30",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_31",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_32",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_33",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_34",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_35",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_36",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_37",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_38",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_39",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_40",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_41",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_42",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_43",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_44",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_45",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_46",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_47",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_48",
+          "channels": 2,
+          "seconds": 7.5
+        },
+        {
+          "name": "Hành Động H2O_49",
+          "channels": 2,
+          "seconds": 7.5
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "the-long.glb",
+      "bytes": 5392696,
+      "meshes": 51,
+      "nodes": 53,
+      "vertices": 108300,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 100,
+          "seconds": 7.5
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -3.2828426361083984,
+        -3.230940103530884,
+        -3.2828426361083984
+      ],
+      "max": [
+        3.2828426361083984,
+        3.0,
+        3.2828426361083984
+      ]
+    },
+    "scaleFactor": 0.036553686332724246,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 50
+  },
+  {
+    "original": {
+      "file": "chu-trinh-nuoc.glb",
+      "bytes": 8859980,
+      "meshes": 34,
+      "nodes": 122,
+      "vertices": 63751,
+      "embeddedImages": 19,
+      "animations": [
+        {
+          "name": "idle",
+          "channels": 246,
+          "seconds": 6.375
+        },
+        {
+          "name": "idle_with_info",
+          "channels": 246,
+          "seconds": 6.375
+        },
+        {
+          "name": "Hành Động Vapor_Particle_0.001",
+          "channels": 2,
+          "seconds": 4.291666666666667
+        },
+        {
+          "name": "Hành Động Vapor_Particle_1.001",
+          "channels": 2,
+          "seconds": 4.916666666666667
+        },
+        {
+          "name": "Hành Động Vapor_Particle_2.001",
+          "channels": 2,
+          "seconds": 5.333333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_3.001",
+          "channels": 2,
+          "seconds": 3.4166666666666665
+        },
+        {
+          "name": "Hành Động Vapor_Particle_4.001",
+          "channels": 2,
+          "seconds": 5.5
+        },
+        {
+          "name": "Hành Động Vapor_Particle_5.001",
+          "channels": 2,
+          "seconds": 4.916666666666667
+        },
+        {
+          "name": "Hành Động Vapor_Particle_6.001",
+          "channels": 2,
+          "seconds": 5.333333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_7.001",
+          "channels": 2,
+          "seconds": 6.708333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_8.001",
+          "channels": 2,
+          "seconds": 6.041666666666667
+        },
+        {
+          "name": "Hành Động Vapor_Particle_9.001",
+          "channels": 2,
+          "seconds": 6.708333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_10.001",
+          "channels": 2,
+          "seconds": 4.291666666666667
+        },
+        {
+          "name": "Hành Động Vapor_Particle_11.001",
+          "channels": 2,
+          "seconds": 4.458333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_12.001",
+          "channels": 2,
+          "seconds": 4.75
+        },
+        {
+          "name": "Hành Động Vapor_Particle_13.001",
+          "channels": 2,
+          "seconds": 3.9583333333333335
+        },
+        {
+          "name": "Hành Động Vapor_Particle_14.001",
+          "channels": 2,
+          "seconds": 3.4583333333333335
+        },
+        {
+          "name": "Hành Động Vapor_Particle_15.001",
+          "channels": 2,
+          "seconds": 4.083333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_16.001",
+          "channels": 2,
+          "seconds": 6.333333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_17.001",
+          "channels": 2,
+          "seconds": 5.666666666666667
+        },
+        {
+          "name": "Hành Động Vapor_Particle_18.001",
+          "channels": 2,
+          "seconds": 7.083333333333333
+        },
+        {
+          "name": "Hành Động Vapor_Particle_19.001",
+          "channels": 2,
+          "seconds": 4.708333333333333
+        }
+      ],
+      "extensionsUsed": [
+        "EXT_texture_webp"
+      ]
+    },
+    "web": {
+      "file": "chu-trinh-nuoc.glb",
+      "bytes": 8832328,
+      "meshes": 34,
+      "nodes": 123,
+      "vertices": 63751,
+      "embeddedImages": 19,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 286,
+          "seconds": 7.083333333333333
+        }
+      ],
+      "extensionsUsed": [
+        "EXT_texture_webp"
+      ]
+    },
+    "originalWorldBounds": {
+      "min": [
+        -0.5369674344165809,
+        0.002779138101111009,
+        -1.484475638670862
+      ],
+      "max": [
+        0.5846194405956753,
+        2.2750297771797516,
+        2.161164202238489
+      ]
+    },
+    "scaleFactor": 0.06583206528161474,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 21
   }
 ]

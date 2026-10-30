@@ -8,14 +8,15 @@ const site=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const config=JSON.parse(fs.readFileSync(path.join(site,'data/scenes.json'),'utf8'));
 const book=JSON.parse(fs.readFileSync(path.join(site,'data/book.json'),'utf8'));
 assert.equal(book.pages.length,20);
-assert.equal(config.scenes.length,10);
+assert.equal(config.scenes.length,11);
 assert.equal(config.scenes.find(s=>s.id==='the-ran').bookPage,5);
 assert.equal(config.scenes.find(s=>s.id==='the-khi').bookPage,7);
+assert.equal(config.scenes.find(s=>s.id==='chu-trinh-nuoc').bookPage,14);
 assert.equal(config.scenes.find(s=>s.id==='lam-muoi-tu-nuoc-bien').bookPage,16);
 assert.equal(config.scenes.find(s=>s.id==='lam-nen').bookPage,17);
 assert.ok(!JSON.stringify(book).includes('https://khtn6.edu.vn/'));
 for(const file of ['data/book.json','js/book.js','css/book.css','css/book-utilities.css','vendor/page-flip-2.0.7.js','models.html'])assert.ok(fs.existsSync(path.join(site,file)),file);
-assert.deepEqual(config.scenes.map(s=>s.id).sort(),['bay-hoi','dong-dac','lam-muoi-tu-nuoc-bien','lam-nen','nong-chay','su-soi','suong-mu','the-khi','the-long','the-ran']);
+assert.deepEqual(config.scenes.map(s=>s.id).sort(),['bay-hoi','chu-trinh-nuoc','dong-dac','lam-muoi-tu-nuoc-bien','lam-nen','nong-chay','su-soi','suong-mu','the-khi','the-long','the-ran']);
 assert.equal(publicBase('https://example.com/hat-ar'),'https://example.com/hat-ar/');
 assert.equal(sceneURL('the-khi',publicBase('https://example.com/class/book/')),'https://example.com/class/book/viewer.html?id=the-khi');
 for(const value of ['file:///C:/web/','http://example.com/','https://localhost:8123/','https://127.0.0.1/','https://10.1.1.1/','https://192.168.1.7/','https://172.31.2.2/','https://[::1]/','https://github.com/user/repo','https://example.com/viewer.html','https://user:password@example.com/']) {
@@ -27,8 +28,8 @@ function readGLB(file) {
   return {json,binary:b.subarray(20+n),bytes:b.length};
 }
 const sourceNames={
-  'the-ran':'ran.glb','the-long':'long.glb','the-khi':'khi.glb','nong-chay':'nong_chay.glb','dong-dac':'dong_dac.glb',
-  'bay-hoi':'bay_hoi.glb','suong-mu':'suong_mu.glb','su-soi':'su_soi.glb','lam-muoi-tu-nuoc-bien':'lam_muoi_tu_nuoc_bien.glb','lam-nen':'lam_nen.glb'
+  'the-ran':'ran.glb','the-long':'long-moi.glb','the-khi':'khi.glb','nong-chay':'nong_chay.glb','dong-dac':'dong_dac.glb',
+  'bay-hoi':'bay_hoi.glb','suong-mu':'suong_mu.glb','su-soi':'su_soi.glb','chu-trinh-nuoc':'chu-trinh-nuoc.glb','lam-muoi-tu-nuoc-bien':'lam_muoi_tu_nuoc_bien.glb','lam-nen':'lam_nen.glb'
 };
 for(const scene of config.scenes) {
   const model=readGLB(path.join(site,scene.modelSrc));assert.ok(model.bytes>0);

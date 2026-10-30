@@ -12,7 +12,6 @@ SOURCE = SITE.parent / '3D'
 # Tên tệp ở thư mục 3D và tên dùng công khai trên website. Không sửa tệp nguồn.
 MODELS = {
     'ran.glb': 'the-ran.glb',
-    'long.glb': 'the-long.glb',
     'khi.glb': 'the-khi.glb',
     'nong_chay.glb': 'nong-chay.glb',
     'dong_dac.glb': 'dong-dac.glb',
@@ -21,6 +20,14 @@ MODELS = {
     'su_soi.glb': 'su-soi.glb',
     'lam_muoi_tu_nuoc_bien.glb': 'lam-muoi-tu-nuoc-bien.glb',
     'lam_nen.glb': 'lam-nen.glb',
+    'long-moi.glb': 'the-long.glb',
+    'chu-trinh-nuoc.glb': 'chu-trinh-nuoc.glb',
+}
+
+# Bản chu trình nước có hai hoạt hình tổng thay thế nhau. Giữ clip idle và
+# các hạt hơi nước, bỏ phiên bản có thông tin để các kênh không trùng nhau.
+IGNORED_ANIMATIONS = {
+    'chu-trinh-nuoc.glb': {'idle_with_info'},
 }
 
 
@@ -85,8 +92,9 @@ def world_bounds(data):
     return [min(p[i] for p in points) for i in range(3)], [max(p[i] for p in points) for i in range(3)]
 
 
-def merge_animations(data):
-    old = data.get('animations', [])
+def merge_animations(data, ignored_names=()):
+    old = [animation for animation in data.get('animations', [])
+           if animation.get('name') not in ignored_names]
     if len(old) < 2:
         return len(old)
     merged = {'name': 'TatCaCacHat', 'samplers': [], 'channels': []}
@@ -130,7 +138,7 @@ def main():
         original = describe(source, data)
         lo, hi = world_bounds(data)
         factor = 0.24 / max(hi[i] - lo[i] for i in range(3))
-        old_clips = merge_animations(data)
+        old_clips = merge_animations(data, IGNORED_ANIMATIONS.get(source_name, set()))
         for scene in data['scenes']:
             root = {'name': 'WebAR_Tabletop_24cm', 'children': scene.get('nodes', []),
                     'scale': [factor] * 3,

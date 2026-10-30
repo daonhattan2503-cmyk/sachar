@@ -35,9 +35,9 @@
       "videoSrc": "",
       "posterSrc": "",
       "defaultView": "3d",
-      "animationName": "",
+      "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "14,70 MB"
+      "sizeLabel": "5,14 MB"
     },
     {
       "id": "the-khi",
@@ -152,6 +152,25 @@
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
       "sizeLabel": "1,95 MB"
+    },
+    {
+      "id": "chu-trinh-nuoc",
+      "bookPage": 14,
+      "title": "Chu trình nước trong tự nhiên",
+      "shortTitle": "Chu trình nước",
+      "kicker": "06 / SỰ CHUYỂN THỂ",
+      "theme": "change",
+      "description": "Quan sát nước bay hơi, ngưng tụ thành mây và trở về mặt đất dưới dạng mưa.",
+      "observations": ["Nước ở sông, hồ và biển bay hơi dưới sức nóng Mặt Trời.", "Hơi nước gặp lạnh ngưng tụ thành mây rồi tạo mưa."],
+      "motionNote": "Có hoạt hình minh hoạ chu trình nước.",
+      "modelSrc": "assets/models/chu-trinh-nuoc.glb",
+      "iosSrc": "",
+      "videoSrc": "",
+      "posterSrc": "",
+      "defaultView": "3d",
+      "animationName": "TatCaCacHat",
+      "hasAnimation": true,
+      "sizeLabel": "8,42 MB"
     },
     {
       "id": "lam-muoi-tu-nuoc-bien",
