@@ -1,103 +1,134 @@
 {
-  "title": "Thế giới hạt: Chất thay đổi như thế nào?",
+  "title": "Thế giới hạt",
   "pages": [
     {
       "type": "cover",
-      "content": "\n          <div class=\"h-full flex flex-col justify-between p-7 text-center cover-page rounded-r-lg border-l-4 border-slate-700 shadow-inner\">\n            <div class=\"flex justify-between items-center text-[11px] text-blue-200 tracking-widest font-bold uppercase border-b border-blue-500/30 pb-3\">\n              <span>Môn Khoa Học Tự Nhiên 6</span>\n              <span>Sách Điện Tử KHTN</span>\n            </div>\n            \n            <div class=\"my-auto space-y-4\">\n              <div class=\"inline-flex p-4 rounded-full bg-blue-500/20 text-blue-300 text-5xl mb-1 border border-blue-400/30 shadow-inner\">\n                <span aria-hidden=\"true\">◈</span>\n              </div>\n              <h1 class=\"text-2xl sm:text-3xl font-extrabold tracking-tight text-white book-font-heading leading-tight uppercase\">THẾ GIỚI HẠT: CHẤT THAY ĐỔI NHƯ THẾ NÀO?</h1>\n              <div class=\"h-1 w-20 bg-blue-500 mx-auto rounded-full\"></div>\n              <p class=\"text-xs sm:text-sm text-blue-200 max-w-xs mx-auto font-medium\">Khám phá cấu trúc vi mô & các quá trình chuyển thể của chất</p>\n            </div>\n\n            <div class=\"pt-4 border-t border-blue-500/30 text-xs text-blue-200 space-y-1 text-left bg-slate-900/50 p-3.5 rounded-xl border border-slate-700/60\">\n                          <p><strong>Môn học:</strong> Khoa học tự nhiên 6</p>\n              <p><strong>Ứng dụng:</strong> Sách điện tử lật trang 3D</p>\n            </div>\n          </div>\n        "
+      "content": "<div class=\"cover-page detective-cover h-full flex flex-col justify-between p-7 text-center rounded-r-lg shadow-inner\"><div class=\"cover-orbit\">⚛</div><div class=\"my-auto space-y-4\"><p class=\"cover-kicker\">KHOA HỌC TỰ NHIÊN 6</p><h1 class=\"book-font-heading\">CÁC THỂ CỦA CHẤT<br>VÀ SỰ CHUYỂN THỂ</h1><p class=\"cover-copy\">Cùng Hạt Tí quan sát, đặt câu hỏi và giải mã thế giới hạt.</p><div class=\"cover-magnifier\">⌕</div></div><p class=\"cover-foot\">SÁCH KHOA HỌC TƯƠNG TÁC · 3D & AR</p></div>"
     },
     {
       "chapter": "PHẦN MỞ ĐẦU",
       "title": "Mục tiêu bài học",
-      "content": "\n          <div class=\"space-y-3 text-xs sm:text-sm text-slate-700\">\n            <p class=\"italic text-slate-600 bg-blue-50/60 p-2.5 rounded-lg border border-blue-100\">\n              \"Sau khi học xong, em có thể dùng kiến thức khoa học để lý giải các hiện tượng biến đổi chất xung quanh mình.\"\n            </p>\n\n            <div class=\"bg-blue-50/80 p-3 rounded-xl border border-blue-200 shadow-sm space-y-1\">\n              <h3 class=\"font-bold text-blue-900 text-xs flex items-center gap-1.5\">\n                <span aria-hidden=\"true\">✦</span> 1. Kiến thức khoa học\n              </h3>\n              <ul class=\"list-disc pl-4 space-y-1 text-[11px] text-slate-700\">\n                <li>Nêu được ví dụ về đặc điểm cơ bản của 3 thể của chất: <strong>Rắn, Lỏng, Khí</strong>.</li>\n                <li>Giải thích được sự chuyển thể: <em>Nóng chảy, Đông đặc, Bay hơi, Ngưng tụ, Sôi</em>.</li>\n                <li>Hiểu bản chất vi mô: khoảng cách và sự chuyển động của các hạt.</li>\n              </ul>\n            </div>\n\n            <div class=\"bg-emerald-50/80 p-3 rounded-xl border border-emerald-200 shadow-sm space-y-1\">\n              <h3 class=\"font-bold text-emerald-900 text-xs flex items-center gap-1.5\">\n                <span aria-hidden=\"true\">◈</span> 2. Năng lực & Phẩm chất\n              </h3>\n              <ul class=\"list-disc pl-4 space-y-1 text-[11px] text-slate-700\">\n                <li>Vận dụng mô hình hạt để giải thích hiện tượng chuyển thể trong đời sống.</li>\n                <li>Phát triển tư duy quan sát, suy luận khoa học và chủ động học tập.</li>\n              </ul>\n            </div>\n          </div>\n        "
+      "content": "<div class=\"detective-lead\"><span>🔎</span><p>Hạt Tí mời em mở hồ sơ về các thể của chất và sự chuyển thể trong đời sống.</p></div><div class=\"goal-list\"><h3>Sau bài học, em có thể</h3><ul><li>Nêu được đặc điểm của chất rắn, lỏng và khí.</li><li>Giải thích nóng chảy, đông đặc, bay hơi, ngưng tụ và sôi.</li><li>Vận dụng mô hình hạt để giải thích các hiện tượng quen thuộc.</li></ul></div><p class=\"mascot-note\">“Cậu đã sẵn sàng dùng kính lúp hạt để tìm manh mối chưa?”</p>"
     },
     {
       "chapter": "PHẦN MỞ ĐẦU",
-      "title": "Đọc sách và mở mô hình 3D",
-      "content": "<div class=\"space-y-4 text-sm text-slate-700\"><p>Đọc phần kiến thức, sau đó quan sát mô hình để hình dung cách các hạt sắp xếp và chuyển động.</p><div class=\"bg-blue-50 p-3 rounded-xl border border-blue-200\"><strong>Đọc trên máy tính hoặc sách in</strong><p class=\"mt-2 text-xs\">Dùng camera điện thoại quét QR cạnh bài học. Chạm vào đường dẫn để mở đúng mô hình 3D.</p></div><div class=\"bg-emerald-50 p-3 rounded-xl border border-emerald-200\"><strong>Đọc trên chính điện thoại</strong><p class=\"mt-2 text-xs\">Bấm “Mở mô hình 3D” cạnh QR. Không cần dùng một điện thoại khác để quét.</p></div><p class=\"text-xs\">Trong mô hình 3D, kéo để xoay và chụm để phóng to. Trang thể rắn có mô hình tĩnh; trang thể khí có hoạt hình và nút tạm dừng.</p><p class=\"text-xs text-slate-500\">QR mở trang xem 3D. Chức năng đặt AR lên mặt bàn là lựa chọn thêm trên điện thoại hỗ trợ.</p></div>"
+      "title": "Kính lúp hạt",
+      "content": "<div class=\"process-steps\"><div><b>01 · Đọc</b><span>Đọc câu hỏi và quan sát hình minh hoạ trên trang.</span></div><div><b>02 · Quét</b><span>Quét QR ở hình kính lúp để mở đúng mô hình 3D.</span></div><div><b>03 · Khám phá</b><span>Kéo để xoay, chụm để phóng to và tạm dừng hoạt hình khi cần.</span></div><div><b>04 · Kết luận</b><span>Ghi lại điều em quan sát được bằng lời của mình.</span></div></div><p class=\"soft-note\">Hạt Tí là nhân vật minh hoạ; các mô hình 3D thể hiện cách sắp xếp và chuyển động của hạt.</p>"
     },
     {
-      "chapter": "CHƯƠNG 1: BA THỂ CỦA CHẤT",
-      "title": "Khởi động & Dự đoán cấu trúc hạt",
-      "content": "\n          <div class=\"space-y-3 text-xs text-slate-700\">\n            <p>Viên nước đá (thể rắn) và nước lỏng (thể lỏng) đều là nước, nhưng tại sao chúng lại có hình dạng và cách chuyển động hoàn toàn khác nhau?</p>\n\n            <div class=\"grid grid-cols-2 gap-2 my-2\">\n              <div class=\"p-2.5 bg-blue-50 rounded-xl border border-blue-200 text-center\">\n                <span aria-hidden=\"true\">◇</span>\n                <h5 class=\"font-bold text-blue-900 text-xs\">1. Viên nước đá</h5>\n                <p class=\"text-[10px] text-slate-500\">Có hình dạng cố định</p>\n              </div>\n              <div class=\"p-2.5 bg-teal-50 rounded-xl border border-teal-200 text-center\">\n                <span aria-hidden=\"true\">◡</span>\n                <h5 class=\"font-bold text-teal-900 text-xs\">2. Ly nước lỏng</h5>\n                <p class=\"text-[10px] text-slate-500\">Thay đổi theo bình chứa</p>\n              </div>\n            </div>\n\n            <div class=\"p-3 bg-slate-100 rounded-xl border border-slate-300 space-y-1\">\n              <strong class=\"font-bold text-slate-900 block text-xs\"><span aria-hidden=\"true\">?</span> Câu hỏi khởi động:</strong>\n              <p class=\"text-[11px]\">1. Viên nước đá và nước lỏng khác nhau như thế nào về hình dạng?</p>\n              <p class=\"text-[11px]\">2. Theo em, các hạt cấu tạo nên nước đá và nước lỏng có đứng yên hoàn toàn không?</p>\n              <p class=\"text-[11px]\">3. Nếu để viên nước đá trong phòng một thời gian, điều gì sẽ xảy ra?</p>\n            </div>\n          </div>\n        "
+      "chapter": "CHƯƠNG 1 · BA THỂ CỦA CHẤT",
+      "title": "Vụ án số 1: Bí ẩn của nước",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual ice-water\"><span>🧊</span><b>?</b><span>🥛</span><small>Nước đá và nước lỏng</small></div><div class=\"lesson-copy\"><p><b>Tại hiện trường:</b> một viên nước đá cứng và một cốc nước lỏng trông rất khác nhau, nhưng đều là nước.</p><div class=\"case-note\"><b>Dự đoán của em</b><p>Các hạt trong hai thể này sắp xếp và chuyển động khác nhau như thế nào?</p></div></div></div><p class=\"mascot-note\">“Cậu thử tìm manh mối về hình dạng, khoảng cách và chuyển động của các hạt nhé!”</p>"
     },
     {
-      "chapter": "CHƯƠNG 1: BA THỂ CỦA CHẤT",
-      "title": "Thể Rắn - Các hạt xếp sát nhau",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><strong>Quan sát:</strong> Viên nước đá, khối gỗ hoặc viên phấn có hình dạng tương đối cố định và không tự chảy.</p>\n            <div class=\"bg-blue-50 p-2.5 rounded-lg border border-blue-200 space-y-1\">\n              <strong class=\"text-blue-900 block font-bold text-xs\">Đặc điểm của chất ở thể rắn:</strong>\n              <ul class=\"list-disc pl-4 space-y-0.5 text-[11px]\">\n                <li>Có hình dạng và thể tích xác định.</li>\n                <li>Không chảy như chất lỏng.</li>\n                <li>Rất khó bị nén.</li>\n              </ul>\n            </div>\n            <p class=\"text-[11px] text-slate-600\"><em>Bản chất vi mô:</em> Các hạt xếp rất sát nhau, liên kết chặt chẽ và chỉ dao động nhẹ quanh vị trí cân bằng cố định.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 1 · BA THỂ CỦA CHẤT",
+      "title": "Khám phá thể rắn",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual solid\">🧊<small>Hạt xếp khít, có trật tự</small></div><div class=\"lesson-copy\"><p><b>Định nghĩa:</b> Chất rắn có các hạt liên kết chặt chẽ.</p><p><b>Đặc điểm:</b> Các hạt xếp gần nhau, dao động quanh vị trí cân bằng.</p><p><b>Tính chất:</b> Có hình dạng và thể tích xác định, khó bị nén.</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 1: BA THỂ CỦA CHẤT",
-      "title": "Thể Lỏng - Các hạt trượt qua nhau",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><strong>Quan sát:</strong> Nước uống, dầu ăn và xăng là những ví dụ về chất lỏng ở điều kiện thường.</p>\n            <div class=\"bg-teal-50 p-2.5 rounded-lg border border-teal-200 space-y-1\">\n              <strong class=\"text-teal-900 block font-bold text-xs\">Đặc điểm của chất ở thể lỏng:</strong>\n              <ul class=\"list-disc pl-4 space-y-0.5 text-[11px]\">\n                <li>Không có hình dạng xác định (mang hình dạng của phần vật chứa nó).</li>\n                <li>Có thể chảy và rót được.</li>\n                <li>Khó bị nén.</li>\n              </ul>\n            </div>\n            <p class=\"text-[11px] text-slate-600\"><em>Bản chất vi mô:</em> Các hạt ở gần nhau nhưng di chuyển linh hoạt và trượt qua nhau liên tục.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 1 · BA THỂ CỦA CHẤT",
+      "title": "Khám phá thể lỏng",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual liquid\">💧<small>Hạt gần nhau, trượt qua nhau</small></div><div class=\"lesson-copy\"><p><b>Định nghĩa:</b> Chất lỏng có các hạt liên kết lỏng lẻo hơn chất rắn.</p><p><b>Đặc điểm:</b> Các hạt gần nhau nhưng không đứng cố định, có thể trượt qua nhau.</p><p><b>Tính chất:</b> Không có hình dạng xác định nhưng có thể tích xác định.</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 1: BA THỂ CỦA CHẤT",
-      "title": "Thể Khí - Các hạt chuyển động tự do",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><strong>Quan sát:</strong> Không khí xung quanh, hơi nước, khí nén trong bình gas.</p>\n            <div class=\"bg-rose-50 p-2.5 rounded-lg border border-rose-200 space-y-1\">\n              <strong class=\"text-rose-900 block font-bold text-xs\">Đặc điểm của chất ở thể khí:</strong>\n              <ul class=\"list-disc pl-4 space-y-0.5 text-[11px]\">\n                <li>Không có hình dạng và thể tích xác định.</li>\n                <li>Có thể lan tỏa trong không gian theo mọi hướng.</li>\n                <li>Rất dễ bị nén.</li>\n              </ul>\n            </div>\n            <p class=\"text-[11px] text-slate-600\"><em>Bản chất vi mô:</em> Các hạt ở cách xa nhau, chuyển động hoàn toàn tự do và ngẫu nhiên về mọi hướng.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 1 · BA THỂ CỦA CHẤT",
+      "title": "Khám phá thể khí",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual gas\">💨<small>Hạt xa nhau, chuyển động tự do</small></div><div class=\"lesson-copy\"><p><b>Định nghĩa:</b> Chất khí có các hạt liên kết rất yếu.</p><p><b>Đặc điểm:</b> Các hạt ở xa nhau và chuyển động theo nhiều hướng.</p><p><b>Tính chất:</b> Không có hình dạng, thể tích xác định và dễ bị nén.</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 1: BA THỂ CỦA CHẤT",
-      "title": "Bảng tổng kết phân biệt ba thể của chất",
-      "content": "\n          <div class=\"space-y-3 text-xs text-slate-700\">\n            <table class=\"w-full text-left border-collapse border border-slate-300 rounded-lg overflow-hidden text-[10px]\">\n              <thead class=\"bg-slate-200 text-slate-800 font-bold\">\n                <tr>\n                  <th class=\"p-1 border\">Đặc điểm</th>\n                  <th class=\"p-1 border text-blue-700\">Thể Rắn</th>\n                  <th class=\"p-1 border text-teal-700\">Thể Lỏng</th>\n                  <th class=\"p-1 border text-rose-700\">Thể Khí</th>\n                </tr>\n              </thead>\n              <tbody class=\"divide-y border bg-white\">\n                <tr><td class=\"p-1 font-bold border bg-slate-50\">Hình dạng</td><td class=\"p-1 border\">Xác định</td><td class=\"p-1 border\">Theo vật chứa</td><td class=\"p-1 border\">Theo vật chứa</td></tr>\n                <tr><td class=\"p-1 font-bold border bg-slate-50\">Khả năng chảy</td><td class=\"p-1 border\">Không chảy</td><td class=\"p-1 border\">Có thể chảy</td><td class=\"p-1 border\">Lan tỏa rộng</td></tr>\n                <tr><td class=\"p-1 font-bold border bg-slate-50\">Khoảng cách hạt</td><td class=\"p-1 border\">Gần nhau</td><td class=\"p-1 border\">Gần nhau</td><td class=\"p-1 border\">Xa nhau</td></tr>\n                <tr><td class=\"p-1 font-bold border bg-slate-50\">Chuyển động hạt</td><td class=\"p-1 border\">Dao động tại chỗ</td><td class=\"p-1 border\">Trượt qua nhau</td><td class=\"p-1 border\">Tự do nhiều hướng</td></tr>\n                <tr><td class=\"p-1 font-bold border bg-slate-50\">Khả năng nén</td><td class=\"p-1 border\">Khó nén</td><td class=\"p-1 border\">Khó nén</td><td class=\"p-1 border\">Dễ nén</td></tr>\n              </tbody>\n            </table>\n\n            <div class=\"bg-indigo-50 p-2.5 rounded-xl border border-indigo-200 space-y-1 text-[11px]\">\n              <strong class=\"text-indigo-900 block font-bold\">Ghi nhớ trọng tâm:</strong>\n              <p>Mọi chất đều được cấu tạo từ các hạt vi mô. Sự khác biệt về khoảng cách và chuyển động của các hạt tạo nên tính chất đặc trưng cho từng thể.</p>\n            </div>\n          </div>\n        "
+      "chapter": "CHƯƠNG 1 · BA THỂ CỦA CHẤT",
+      "title": "Sổ tay chốt án: So sánh ba thể",
+      "content": "<div class=\"compare-grid\"><div><b>Thể rắn</b><span>Hạt gần, có trật tự</span><span>Hình dạng xác định</span></div><div><b>Thể lỏng</b><span>Hạt gần, trượt qua nhau</span><span>Theo hình dạng vật chứa</span></div><div><b>Thể khí</b><span>Hạt xa, chuyển động tự do</span><span>Lan toả khắp không gian</span></div></div><p class=\"mascot-note\">“Hãy quay lại trang 4 và kiểm tra dự đoán ban đầu của cậu.”</p>"
     },
     {
-      "chapter": "CHƯƠNG 2: SỰ CHUYỂN THỂ",
-      "title": "Sự Nóng Chảy (Thể rắn → Thể lỏng)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><em>Hiện tượng:</em> Lấy viên nước đá ra khỏi ngăn đông đặt lên đĩa, sau một thời gian viên đá nhỏ dần và xuất hiện nước lỏng.</p>\n            <div class=\"p-2.5 bg-amber-50 rounded-lg border border-amber-200 space-y-1\">\n              <strong class=\"text-amber-900 block font-bold text-xs\"><span aria-hidden=\"true\">♨</span> Khái niệm:</strong>\n              <p class=\"text-[11px]\">Sự nóng chảy là quá trình chất chuyển từ <strong>thể rắn sang thể lỏng</strong> khi nhận nhiệt.</p>\n            </div>\n            <p class=\"text-[11px] text-slate-600\"><strong>Ví dụ:</strong> Nước đá tan thành nước; sáp nến chảy lỏng ra khi thắp nến.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "Hiện tượng nóng chảy",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual warm\">🧊 → 💧<small>Nhận nhiệt</small></div><div class=\"lesson-copy\"><p><b>Khái niệm:</b> Nóng chảy là quá trình chất chuyển từ thể rắn sang thể lỏng khi nhận nhiệt.</p><p><b>Bản chất hạt:</b> Hạt dao động mạnh hơn, rời cấu trúc có trật tự và bắt đầu trượt qua nhau.</p></div></div><p class=\"mascot-note\">“Nóng lên rồi, các hạt bắt đầu chuyển động mạnh hơn!”</p>"
     },
     {
-      "chapter": "CHƯƠNG 2: SỰ CHUYỂN THỂ",
-      "title": "Sự Đông Đặc (Thể lỏng → Thể rắn)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><em>Hiện tượng:</em> Cho nước lỏng vào khay rồi đặt trong ngăn đông đủ lâu, nước lỏng chuyển thành nước đá rắn.</p>\n            <div class=\"p-2.5 bg-cyan-50 rounded-lg border border-cyan-200 space-y-1\">\n              <strong class=\"text-cyan-900 block font-bold text-xs\"><span aria-hidden=\"true\">❄</span> Khái niệm:</strong>\n              <p class=\"text-[11px]\">Sự đông đặc là quá trình chất chuyển từ <strong>thể lỏng sang thể rắn</strong> khi bị làm lạnh.</p>\n            </div>\n            <p class=\"text-[11px] text-slate-600\"><strong>Ví dụ:</strong> Nước lỏng đông thành đá; sáp nến nguội cứng lại.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "Hiện tượng đông đặc",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual cold\">💧 → 🧊<small>Mất nhiệt</small></div><div class=\"lesson-copy\"><p><b>Khái niệm:</b> Đông đặc là quá trình chất chuyển từ thể lỏng sang thể rắn khi bị làm lạnh.</p><p><b>Bản chất hạt:</b> Hạt chuyển động chậm lại, xích gần nhau và sắp xếp thành cấu trúc ổn định.</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 2: SỰ CHUYỂN THỂ",
-      "title": "Sự Bay Hơi (Thể lỏng → Thể hơi)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><em>Hiện tượng:</em> Sau cơn mưa, vũng nước trên sân nhỏ dần rồi biến mất dù không ai lau đi. Nước đã chuyển thành hơi nước.</p>\n            <div class=\"p-2.5 bg-indigo-50 rounded-lg border border-indigo-200 space-y-1\">\n              <strong class=\"text-indigo-900 block font-bold text-xs\">Khái niệm:</strong>\n              <p class=\"text-[11px]\">Sự bay hơi là quá trình chất chuyển từ <strong>thể lỏng sang thể hơi</strong>, xảy ra trên <em>bề mặt chất lỏng</em>.</p>\n            </div>\n            <p class=\"text-[11px] text-slate-600\"><strong>Ví dụ:</strong> Quần áo ướt khô khi phơi nắng; nước trong ly để lâu bị hao hụt.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "Hiện tượng bay hơi",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual sun\">💧 ⇡<small>Hạt ở mặt thoáng bay lên</small></div><div class=\"lesson-copy\"><p><b>Khái niệm:</b> Bay hơi là quá trình chất chuyển từ thể lỏng sang thể hơi ở mặt thoáng.</p><p><b>Đặc điểm:</b> Quá trình xảy ra ở mọi nhiệt độ; nhiệt độ càng cao, bay hơi càng nhanh.</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 2: SỰ CHUYỂN THỂ",
-      "title": "Sự Ngưng Tụ (Thể hơi → Thể lỏng)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><em>Hiện tượng:</em> Lấy ly nước lạnh từ tủ lạnh ra, sau một thời gian xuất hiện những giọt nước đọng ở mặt ngoài ly.</p>\n            <div class=\"p-2.5 bg-sky-50 rounded-lg border border-sky-200 space-y-1\">\n              <strong class=\"text-sky-900 block font-bold text-xs\">Khái niệm:</strong>\n              <p class=\"text-[11px]\">Sự ngưng tụ là quá trình chất chuyển từ <strong>thể hơi sang thể lỏng</strong> khi gặp lạnh.</p>\n            </div>\n            <p class=\"text-[11px] text-slate-600\"><strong>Lưu ý:</strong> Giọt nước bên ngoài ly do hơi nước trong không khí gặp thành ly lạnh ngưng tụ lại, không phải do nước bên trong thấm ra.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "Vụ án số 2: Giọt nước ngoài thành cốc",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual cup\">🧊🥛<small>Những giọt nước ở bên ngoài cốc</small></div><div class=\"lesson-copy\"><p>Một cốc nước đá xuất hiện nhiều giọt nước bên ngoài dù cốc không bị thủng.</p><div class=\"case-note\"><b>Câu hỏi điều tra</b><p>Những giọt nước này từ đâu đến? Có phải nước ở trong cốc thấm ra ngoài không?</p></div></div></div><p class=\"mascot-note\">“Cậu hãy quan sát thật kỹ trước khi đưa ra kết luận.”</p>"
     },
     {
-      "chapter": "CHƯƠNG 2: SỰ CHUYỂN THỂ",
-      "title": "Sự Sôi (Sự hóa hơi đặc biệt)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><em>Khái niệm:</em> Sự sôi là quá trình chuyển từ thể lỏng sang thể hơi xảy ra <strong>cả trên bề mặt và trong lòng chất lỏng</strong> khi đạt nhiệt độ sôi.</p>\n            <table class=\"w-full text-left border-collapse border border-slate-300 text-[10px] my-1\">\n              <tr class=\"bg-slate-100 font-bold\"><td class=\"p-1 border\">Tiêu chí</td><td class=\"p-1 border\">Bay hơi</td><td class=\"p-1 border\">Sự sôi</td></tr>\n              <tr><td class=\"p-1 border font-semibold\">Vị trí xảy ra</td><td class=\"p-1 border\">Chỉ trên bề mặt</td><td class=\"p-1 border\">Bề mặt & trong lòng</td></tr>\n              <tr><td class=\"p-1 border font-semibold\">Nhiệt độ</td><td class=\"p-1 border\">Mọi nhiệt độ</td><td class=\"p-1 border\">Nhiệt độ sôi xác định</td></tr>\n            </table>\n          </div>\n        "
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "Hiện tượng ngưng tụ",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual cloud\">☁ → 💧<small>Hơi nước gặp lạnh</small></div><div class=\"lesson-copy\"><p><b>Khái niệm:</b> Ngưng tụ là quá trình chất chuyển từ thể khí sang thể lỏng.</p><p><b>Lời giải vụ án:</b> Hơi nước trong không khí gặp thành cốc lạnh, ngưng tụ thành các giọt nước nhỏ ở bên ngoài.</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 2: SỰ CHUYỂN THỂ",
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "Hiện tượng sôi",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual boil\">♨<small>Bọt khí từ trong lòng chất lỏng</small></div><div class=\"lesson-copy\"><p><b>Khái niệm:</b> Sôi là sự hoá hơi diễn ra cả trong lòng và trên bề mặt chất lỏng.</p><p><b>Đặc điểm:</b> Nước sôi ở nhiệt độ xác định, khoảng 100°C ở áp suất chuẩn.</p></div></div>"
+    },
+    {
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "So sánh bay hơi và sôi",
+      "content": "<div class=\"compare-grid two\"><div><b>Bay hơi</b><span>Chỉ xảy ra ở mặt thoáng</span><span>Xảy ra ở mọi nhiệt độ</span></div><div><b>Sôi</b><span>Xảy ra cả trong lòng và mặt thoáng</span><span>Xảy ra ở nhiệt độ sôi</span></div></div><p class=\"mascot-note\">“Phơi quần áo là bay hơi hay sôi? Hãy giải thích.”</p>"
+    },
+    {
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
       "title": "Chu trình nước trong tự nhiên",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p>Sự chuyển thể của nước tạo ra chu trình tuần hoàn tự nhiên trên Trái Đất:</p>\n            <ol class=\"list-decimal pl-4 space-y-1 text-[11px]\">\n              <li><strong>Bay hơi:</strong> Nước ở sông, hồ, biển hóa hơi dưới sức nóng Mặt Trời.</li>\n              <li><strong>Ngưng tụ:</strong> Hơi nước bốc lên cao gặp lạnh ngưng tụ thành mây.</li>\n              <li><strong>Mưa:</strong> Giọt nước trong mây nặng dần rơi xuống thành mưa.</li>\n              <li><strong>Thấm & Tuần hoàn:</strong> Nước mưa chảy về sông biển và tiếp tục bay hơi.</li>\n            </ol>\n          </div>\n        "
+      "content": "<div class=\"water-cycle\"><div>🌊<b>1. Bay hơi</b><span>Nước ở sông, hồ, biển hoá hơi.</span></div><div>☁<b>2. Ngưng tụ</b><span>Hơi nước gặp lạnh tạo thành mây.</span></div><div>🌧<b>3. Mưa</b><span>Giọt nước trong mây rơi xuống đất.</span></div><div>🏞<b>4. Tuần hoàn</b><span>Nước trở về sông, hồ, biển.</span></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 2: SỰ CHUYỂN THỂ",
-      "title": "Ôn tập & Trắc nghiệm kiểm tra",
-      "content": "\n          <div class=\"space-y-2.5 text-xs text-slate-700\">\n            <div class=\"bg-white p-2.5 rounded-xl border border-slate-200 shadow-sm space-y-1.5\">\n              <strong class=\"text-slate-900 block font-bold text-[11px]\">Câu 1: Quá trình chất chuyển từ thể lỏng sang thể rắn gọi là:</strong>\n              <div class=\"grid grid-cols-2 gap-1 text-[11px]\">\n                <button onclick=\"checkQuiz(this, false)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">A. Nóng chảy</button>\n                <button onclick=\"checkQuiz(this, true)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">B. Đông đặc</button>\n                <button onclick=\"checkQuiz(this, false)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">C. Bay hơi</button>\n                <button onclick=\"checkQuiz(this, false)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">D. Ngưng tụ</button>\n              </div>\n            </div>\n\n            <div class=\"bg-white p-2.5 rounded-xl border border-slate-200 shadow-sm space-y-1.5\">\n              <strong class=\"text-slate-900 block font-bold text-[11px]\">Câu 2: Hiện tượng sương đọng trên lá cây buổi sáng do quá trình nào?</strong>\n              <div class=\"grid grid-cols-2 gap-1 text-[11px]\">\n                <button onclick=\"checkQuiz(this, false)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">A. Bay hơi</button>\n                <button onclick=\"checkQuiz(this, true)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">B. Ngưng tụ</button>\n                <button onclick=\"checkQuiz(this, false)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">C. Nóng chảy</button>\n                <button onclick=\"checkQuiz(this, false)\" class=\"quiz-btn p-1.5 text-left bg-slate-50 border rounded-lg hover:bg-blue-50\">D. Đông đặc</button>\n              </div>\n            </div>\n          </div>\n        "
+      "chapter": "CHƯƠNG 2 · SỰ CHUYỂN THỂ",
+      "title": "Mô phỏng AR: Chu trình nước",
+      "content": "<div class=\"ar-invitation\"><span>⌕</span><p>Quét QR để mở mô hình 3D chu trình nước. Quan sát nước bay hơi từ biển, ngưng tụ thành mây và rơi xuống dưới dạng mưa.</p></div>"
     },
     {
-      "chapter": "CHƯƠNG 3: SỰ CHUYỂN THỂ QUANH EM",
-      "title": "Làm muối từ nước biển (Sự bay hơi)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><strong>Quá trình làm muối:</strong> Người dân dẫn nước biển vào ruộng muối. Nhờ nắng và gió, nước biển bay hơi dần, còn lại muối kết tinh được thu hoạch.</p>\n            <div class=\"p-2.5 bg-amber-50 rounded-lg border border-amber-200 text-[11px]\">\n              <strong class=\"text-amber-900 block font-semibold mb-0.5\">Vai trò khoa học:</strong> Sự bay hơi giúp tách nước lỏng ra khỏi hỗn hợp, thu hồi tinh thể muối rắn.\n            </div>\n          </div>\n        "
+      "chapter": "ÔN TẬP",
+      "title": "Góc ôn tập nhanh",
+      "content": "<div class=\"quiz-stack\"><div><b>Câu 1</b><p>Quá trình chất lỏng chuyển thành chất rắn gọi là gì?</p></div><div><b>Câu 2</b><p>Vì sao quần áo phơi ngoài nắng và gió thường khô nhanh hơn?</p></div><div><b>Câu 3</b><p>Hãy giải thích sương đọng trên lá cây vào buổi sáng.</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 3: SỰ CHUYỂN THỂ QUANH EM",
-      "title": "Làm nến (Nóng chảy & Đông đặc)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p>Quy trình làm nến thể hiện rõ hai quá trình chuyển thể:</p>\n            <ol class=\"list-decimal pl-4 space-y-1 text-[11px]\">\n              <li><strong>Đun nóng chảy:</strong> Sáp nến rắn được đun nóng để chuyển thành sáp lỏng.</li>\n              <li><strong>Rót vào khuôn:</strong> Rót sáp lỏng vào khuôn, đặt tim nến ở giữa.</li>\n              <li><strong>Làm nguội & Đông đặc:</strong> Sáp lỏng nguội dần, đông đặc thành cây nến rắn.</li>\n            </ol>\n          </div>\n        "
+      "chapter": "CHƯƠNG 3 · VẬN DỤNG THỰC TẾ",
+      "title": "Vụ án thực tế: Làm muối như thế nào?",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual salt\">☀️<small>Nước biển và tinh thể muối</small></div><div class=\"lesson-copy\"><p>Người làm muối dẫn nước biển vào ruộng muối. Nắng và gió làm nước bay hơi, còn lại tinh thể muối.</p><p><b>Câu hỏi:</b> Nước bay hơi, vậy hạt muối đi đâu?</p></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 3: SỰ CHUYỂN THỂ QUANH EM",
-      "title": "Sự hình thành sương mù (Sự ngưng tụ)",
-      "content": "\n          <div class=\"space-y-2 text-xs text-slate-700\">\n            <p><strong>Giải thích hiện tượng:</strong> Trong không khí luôn chứa hơi nước không nhìn thấy. Ban đêm nhiệt độ giảm lạnh, hơi nước ngưng tụ thành các giọt nước cực nhỏ lơ lửng gần mặt đất tạo nên sương mù.</p>\n          </div>\n        "
+      "chapter": "CHƯƠNG 3 · VẬN DỤNG THỰC TẾ",
+      "title": "Quy trình làm nến thơm",
+      "content": "<div class=\"process-steps\"><div><b>01</b><span>Chuẩn bị sáp nến ở thể rắn.</span></div><div><b>02</b><span>Đun sáp để nóng chảy.</span></div><div><b>03</b><span>Thêm màu hoặc hương thơm nếu cần.</span></div><div><b>04</b><span>Rót sáp lỏng vào khuôn có tim nến.</span></div><div><b>05</b><span>Chờ sáp nguội và đông đặc thành nến.</span></div></div>"
     },
     {
-      "chapter": "CHƯƠNG 3: SỰ CHUYỂN THỂ QUANH EM",
-      "title": "Luyện tập & Thử thách tư duy",
-      "content": "\n          <div class=\"space-y-2.5 text-xs text-slate-700\">\n            <div class=\"p-2.5 bg-blue-50 rounded-xl border border-blue-200 space-y-1\">\n              <strong class=\"text-blue-900 block font-bold text-[11px]\">Mức 1 (Nhận biết):</strong>\n              <p class=\"text-[11px]\">Điền từ: Chất rắn có hình dạng ...; Chất lỏng có thể ...; Chất khí lan tỏa theo ...</p>\n            </div>\n\n            <div class=\"p-2.5 bg-indigo-50 rounded-xl border border-indigo-200 space-y-1\">\n              <strong class=\"text-indigo-900 block font-bold text-[11px]\">Mức 2 (Thông hiểu):</strong>\n              <p class=\"text-[11px]\">Vì sao quần áo phơi ngoài trời nắng gió lại mau khô hơn khi phơi trong nhà?</p>\n            </div>\n\n            <div class=\"p-2.5 bg-emerald-50 rounded-xl border border-emerald-200 space-y-1\">\n              <strong class=\"text-emerald-900 block font-bold text-[11px]\">Mức 3 (Vận dụng):</strong>\n              <p class=\"text-[11px]\">Hãy giải thích vai trò của sự bay hơi và ngưng tụ trong đời sống hàng ngày của gia đình em.</p>\n            </div>\n          </div>\n        "
+      "chapter": "CHƯƠNG 3 · VẬN DỤNG THỰC TẾ",
+      "title": "Mô phỏng AR: Quá trình làm nến",
+      "content": "<div class=\"ar-invitation\"><span>⌕</span><p>Quét QR để theo dõi sáp chuyển từ rắn sang lỏng khi đun, sau đó đông đặc trở lại trong khuôn.</p></div>"
     },
     {
-      "type": "back-cover",
-      "content": "\n          <div class=\"h-full flex flex-col justify-between p-7 text-center back-cover-page rounded-l-lg border-r-4 border-slate-700\">\n            <div class=\"my-auto space-y-3\">\n              <span aria-hidden=\"true\">✓</span>\n              <h3 class=\"text-lg font-bold text-white book-font-heading\">HOÀN THÀNH BÀI HỌC</h3>\n              <p class=\"text-xs text-slate-300 max-w-xs mx-auto\">Em đã hoàn thành cuốn sách điện tử khám phá thế giới vi mô của các chất!</p>\n            </div>\n\n            <div class=\"text-[10px] text-slate-400 pt-3 border-t border-slate-700 space-y-1 text-left\">\n              <p><strong>Nguồn tài liệu:</strong> SGK Khoa Học Tự Nhiên 6 - Kết nối tri thức với cuộc sống (NXB Giáo Dục Việt Nam).</p>\n              <p>Bản quyền ứng dụng &copy; 2026.</p>\n            </div>\n          </div>\n        "
+      "chapter": "CHƯƠNG 3 · VẬN DỤNG THỰC TẾ",
+      "title": "Vụ án số 3: Bí ẩn sương mù buổi sớm",
+      "content": "<div class=\"lesson-layout\"><div class=\"lesson-visual fog\">🌫<small>Sương mù gần mặt đất</small></div><div class=\"lesson-copy\"><p>Vào buổi sáng lạnh, lớp sương mù che phủ gần mặt đất được tạo thành như thế nào?</p><div class=\"case-note\"><b>Dự đoán của em</b><p>Sương mù có phải là mây rơi xuống đất không?</p></div></div></div>"
+    },
+    {
+      "chapter": "KẾT ÁN · BÀI TẬP",
+      "title": "Phiên toà thám tử: Thử thách mức 1 và 2",
+      "content": "<div class=\"quiz-stack\"><div><b>Thử thách 1</b><p>Nối tên quá trình chuyển thể với định nghĩa phù hợp.</p></div><div><b>Thử thách 2</b><p>Điền từ thích hợp: chất rắn có hình dạng …; chất lỏng có thể …; chất khí lan toả theo …</p></div></div>"
+    },
+    {
+      "chapter": "KẾT ÁN · BÀI TẬP",
+      "title": "Phiên toà thám tử: Thử thách mức 3",
+      "content": "<div class=\"quiz-stack\"><div><b>Tình huống</b><p>Vì sao thành cốc nước đá bị ướt vào mùa hè?</p></div><div><b>Tình huống</b><p>Vì sao sương mù thường tan dần khi Mặt Trời lên cao?</p></div></div>"
+    },
+    {
+      "chapter": "KẾT ÁN · TỔNG KẾT",
+      "title": "Hồ sơ tổng hợp: Sơ đồ tư duy các thể",
+      "content": "<div class=\"state-map\"><div><b>RẮN</b><span>nóng chảy →</span><b>LỎNG</b><span>bay hơi →</span><b>KHÍ</b></div><div><span>← đông đặc</span><span>← ngưng tụ</span></div></div><p class=\"soft-note\">Nhiệt làm các hạt chuyển động mạnh hơn; làm lạnh khiến các hạt chuyển động chậm lại và gần nhau hơn.</p>"
+    },
+    {
+      "chapter": "THAM KHẢO",
+      "title": "Tài liệu tham khảo và giấy phép",
+      "content": "<div class=\"reference-list\"><p><b>Nội dung:</b> Kiến thức khoa học tự nhiên lớp 6 về các thể của chất và sự chuyển thể.</p><p><b>Mô hình 3D:</b> Các tệp GLB được cung cấp cùng dự án, dùng cho mục đích minh hoạ học tập.</p><p><b>Công nghệ:</b> Model Viewer, QRCode.js và StPageFlip theo giấy phép kèm trong mã nguồn.</p></div><p class=\"mascot-note\">“Chúc mừng! Cậu đã hoàn thành hồ sơ thám tử khoa học.”</p>"
     }
   ]
 }

@@ -1,22 +1,22 @@
 <!doctype html>
 <html lang="vi"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#162536">
-<meta name="description" content="Sách khoa học 20 trang: đọc nội dung và quét QR để mở mô hình 3D của từng bài.">
+<meta name="description" content="Sách khoa học tương tác về các thể của chất và sự chuyển thể, có mô hình 3D theo từng bài.">
 <title>Thế giới hạt · Sách khoa học tương tác</title><link rel="icon" href="assets/icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="css/book-utilities.css"><link rel="stylesheet" href="css/fonts.css?v=2"><link rel="stylesheet" href="css/book.css?v=2">
+<link rel="stylesheet" href="css/book-utilities.css"><link rel="stylesheet" href="css/fonts.css?v=2"><link rel="stylesheet" href="css/book.css?v=2"><link rel="stylesheet" href="css/detective-book.css?v=1">
 <script defer src="vendor/page-flip-2.0.7.js"></script><script type="module" src="js/book.js"></script>
 </head><body>
 <header class="book-toolbar"><a href="index.html" class="book-brand"><span class="book-logo" aria-hidden="true">h.</span><span>THẾ GIỚI HẠT<small>SÁCH KHOA HỌC TƯƠNG TÁC</small></span></a><nav aria-label="Điều hướng website"><a href="models.html">Các mô hình 3D ↗</a><a href="qr.html">Tạo / tải QR</a></nav></header>
 <main>
-<section class="book-intro"><p>NỘI DUNG BÀI HỌC + MÔ HÌNH 3D</p><h1>Đọc để hiểu. Quét để khám phá.</h1><span>Mỗi QR trong bài mở đúng mô hình 3D tương ứng.</span></section>
+<section class="book-intro"><p>HỒ SƠ KHOA HỌC TƯƠNG TÁC</p><h1>Cùng Hạt Tí giải mã thế giới hạt</h1><span>Đọc manh mối, quan sát mô hình và tự rút ra kết luận.</span></section>
 <div class="book-controls" aria-label="Điều khiển sách"><button id="open-toc" type="button">☷ Mục lục</button><label class="sr-only" for="page-select">Chọn trang sách</label><select id="page-select" aria-label="Chọn trang sách"></select><button id="toggle-reading" type="button" aria-pressed="false">Đọc dạng cuộn</button></div>
 <p id="book-error" class="book-error" hidden role="alert"></p><div id="book-loading" class="book-loading" role="status">Đang mở cuốn sách…</div>
 <section id="flip-area" class="flip-area" aria-label="Sách lật trang"><div id="flipbook"></div></section>
 <section id="reading-pages" class="reading-pages" hidden aria-label="Nội dung sách dạng cuộn"></section>
-<div id="flip-navigation" class="flip-navigation"><button id="book-prev" aria-label="Trang trước" type="button">←</button><span id="page-indicator" aria-live="polite">Trang 1 / 20</span><button id="book-next" aria-label="Trang sau" type="button">→</button></div>
+<div id="flip-navigation" class="flip-navigation"><button id="book-prev" aria-label="Trang trước" type="button">←</button><span id="page-indicator" aria-live="polite">Trang 1 / <span id="book-count">26</span></span><button id="book-next" aria-label="Trang sau" type="button">→</button></div>
 <p class="book-bottom-hint">Đang đọc trên điện thoại? Bấm <strong>Mở mô hình 3D</strong> cạnh QR để xem trực tiếp.</p>
 <noscript><p class="book-error">Hãy bật JavaScript để mở sách và các mô hình 3D.</p></noscript>
 </main>
 <footer class="book-footer"><span>Thế giới hạt · Khoa học tự nhiên 6</span><a href="huong-dan.html">Hướng dẫn sử dụng ↗</a></footer>
-<dialog id="book-toc" class="book-toc"><div class="toc-heading"><h2>Mục lục 20 trang</h2><button id="close-toc" type="button" aria-label="Đóng mục lục">×</button></div><div id="toc-list"></div></dialog>
+<dialog id="book-toc" class="book-toc"><div class="toc-heading"><h2>Mục lục <span id="toc-count">26</span> trang</h2><button id="close-toc" type="button" aria-label="Đóng mục lục">×</button></div><div id="toc-list"></div></dialog>
 </body></html>

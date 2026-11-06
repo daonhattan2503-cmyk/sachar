@@ -8,13 +8,14 @@ function error(message){$('book-error').textContent=message;$('book-error').hidd
 
 function mediaBox(scene){
   const box=document.createElement('aside');box.className='book-media';box.dataset.scene=scene.id;
+  const lens=document.createElement('div');lens.className='book-lens';
   const qr=document.createElement('div');qr.className='book-qr';qr.dataset.model=scene.id;
   const copy=document.createElement('div');copy.className='book-media-copy';
   const title=document.createElement('h3');title.className='book-media-title';title.textContent=`Quan sát 3D · ${scene.shortTitle || scene.title}`;
   const text=document.createElement('p');text.textContent='Quét QR bằng điện thoại để mở mô hình của bài này.';
   const link=document.createElement('a');link.className='book-media-link';link.textContent='Mở mô hình 3D ↗';link.href=sceneURL(scene.id);link.setAttribute('aria-label',`Mở mô hình 3D ${scene.shortTitle || scene.title}`);
   const note=document.createElement('p');note.className='book-qr-note';note.textContent=scene.hasAnimation?'Kéo để xoay · Có nút phát / tạm dừng hoạt hình.':'Kéo để xoay · Mô hình tĩnh, chưa thể hiện dao động của hạt.';
-  copy.append(title,text,link);box.append(qr,copy,note);return box;
+  lens.append(qr);copy.append(title,text,link,note);box.append(lens,copy);return box;
 }
 
 function makePage(page,index){
@@ -77,6 +78,7 @@ try{
   config=await loadConfig();const response=await fetch(assetURL('data/book.json'),{cache:'no-store'});
   if(!response.ok)throw new Error('Không đọc được nội dung data/book.json.');
   book=await response.json();if(!Array.isArray(book.pages)||!book.pages.length)throw new Error('Nội dung sách chưa hợp lệ.');
+  $('book-count').textContent=String(book.pages.length);$('toc-count').textContent=String(book.pages.length);
   if(!Number.isInteger(requestedPage)||requestedPage<0||requestedPage>=book.pages.length)requestedPage=0;
   for(const [index,page] of book.pages.entries()){
     $('flipbook').append(makePage(page,index));$('reading-pages').append(makePage(page,index));

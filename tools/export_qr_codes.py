@@ -15,11 +15,12 @@ MODELS = [
     ("nong-chay", "SỰ NÓNG CHẢY", 9),
     ("dong-dac", "SỰ ĐÔNG ĐẶC", 10),
     ("bay-hoi", "SỰ BAY HƠI", 11),
-    ("suong-mu", "SỰ NGƯNG TỤ", 12),
-    ("su-soi", "SỰ SÔI", 13),
-    ("chu-trinh-nuoc", "CHU TRÌNH NƯỚC TRONG TỰ NHIÊN", 14),
-    ("lam-muoi-tu-nuoc-bien", "LÀM MUỐI TỪ NƯỚC BIỂN", 16),
-    ("lam-nen", "LÀM NẾN: NÓNG CHẢY VÀ ĐÔNG ĐẶC", 17),
+    ("ngung-tu", "SỰ NGƯNG TỤ", 13),
+    ("su-soi", "SỰ SÔI", 14),
+    ("chu-trinh-nuoc", "CHU TRÌNH NƯỚC TRONG TỰ NHIÊN", 17),
+    ("lam-muoi-tu-nuoc-bien", "LÀM MUỐI TỪ NƯỚC BIỂN", 19),
+    ("lam-nen", "LÀM NẾN: NÓNG CHẢY VÀ ĐÔNG ĐẶC", 21),
+    ("suong-mu", "BÍ ẨN SƯƠNG MÙ BUỔI SỚM", 22),
 ]
 FONT_DIR = SITE / "assets" / "fonts"
 TITLE_FONT = ImageFont.truetype(FONT_DIR / "BeVietnamPro-Bold.ttf", 27)
@@ -58,6 +59,9 @@ def labelled_card(index, model_id, label, page):
 
 def main():
     OUTPUT.mkdir(exist_ok=True)
+    # Remove generated cards from an older page ordering before exporting the new set.
+    for stale in list(OUTPUT.glob("[0-9][0-9]-*.png")) + [OUTPUT / "tat-ca-qr-mo-hinh-3d.png"]:
+        stale.unlink(missing_ok=True)
     cards = []
     manifest = ["# QR mô hình 3D", "", f"Địa chỉ gốc: {BASE_URL}", ""]
     for index, (model_id, label, page) in enumerate(MODELS, start=1):
