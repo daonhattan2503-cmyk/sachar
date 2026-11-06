@@ -4,6 +4,21 @@ let config,book,flip,currentPage=0,reading=false;
 let requestedPage=Number(new URL(location.href).searchParams.get('page') || 1)-1;
 const mediaAt=number=>config.scenes.filter(s=>s.bookPage===number);
 const pageTitle=(page,index)=>page.title || (index===0?'Bìa sách':'Bìa sau');
+const mascots={
+  2:['👋','bottom-left','Chào cậu! Tớ là Hạt Tí, thám tử hạt. Khóa huấn luyện bắt đầu rồi, cậu cùng tớ đi phá các vụ án nhé!'],
+  3:['📱','bottom-right','Cậu hãy dùng điện thoại làm “Kính lúp ma thuật” để giúp tớ nhìn xuyên thấu vật chất nhé!'],
+  4:['🕵️','center-right','Lạ thật! Hai thứ này đều là nước, vậy cấu trúc hạt bên trong khác nhau ở đâu nhỉ? Cậu thử dự đoán cùng tớ xem!'],
+  8:['🔎','bottom-right','Tuyệt vời! Vụ án số 1: Tớ và cậu đã phá xong!'],
+  9:['🧢','bottom-left','Nóng quá cậu ơi, tớ sắp tan ra thành nước luôn rồi!'],
+  10:['🧣','bottom-left','Lạnh cóng! Tớ thấy các hạt đang phải xếp sát lại để sưởi ấm cho nhau kìa cậu!'],
+  12:['🔍','bottom-right','Cậu ơi, hay là nước đã ngấm xuyên qua lớp thủy tinh dày để chảy ra ngoài nhỉ... cậu nghĩ tớ đoán thế có đúng không?'],
+  15:['🤔','bottom-left','Đều là chuyển từ thể lỏng sang thể khí, nhưng cậu thấy hai quá trình này khác nhau ở đâu? Phơi quần áo hằng ngày là bay hơi hay sôi?'],
+  18:['🤫','bottom-left','Nếu bí quá, cậu cứ lật lại trang 11 và 13 để xem gợi ý của tớ nhé, đừng ngại!'],
+  19:['🧺','bottom-left','Nước bốc hơi hết sạch rồi, cậu nghĩ muối có mọc cánh bay theo nước luôn không nhỉ?'],
+  22:['🔦','bottom-left','Sương mù này y hệt vụ án giọt nước ngoài thành cốc ở trang 12 đấy! Cậu mau dùng Kính lúp hạt soi thử bản chất bên trong xem nào!'],
+  23:['⚖️','bottom-left','Đến lúc kiểm tra tài năng thám tử thực thụ của cậu rồi! Trả lời cẩn thận nha, đừng để tớ lừa đấy!'],
+  25:['🏅','bottom-right','Cậu siêu thật đấy! Chúc mừng cậu đã cùng tớ phá đảo thành công toàn bộ khóa huấn luyện thám tử khoa học!']
+};
 function error(message){$('book-error').textContent=message;$('book-error').hidden=false;}
 
 function mediaBox(scene){
@@ -29,6 +44,8 @@ function makePage(page,index){
     const title=document.createElement('h2');title.className='book-page-title';title.textContent=page.title;
     const content=document.createElement('div');content.className='book-page-content';content.innerHTML=page.content;
     body.append(title,content);for(const scene of mediaAt(index+1))body.append(mediaBox(scene));
+    const mascot=mascots[index+1];
+    if(mascot){const figure=document.createElement('aside');figure.className=`hat-ti ${mascot[1]}`;figure.setAttribute('aria-label','Lời thoại của Hạt Tí');figure.innerHTML=`<span aria-hidden="true">${mascot[0]}</span><p>${mascot[2]}</p>`;body.append(figure);}
     const footer=document.createElement('div');footer.className='sheet-footer';
     const name=document.createElement('span');name.textContent='THẾ GIỚI HẠT · KHTN 6';const n=document.createElement('strong');n.textContent=String(index+1);footer.append(name,n);
     const layout=document.createElement('div');layout.className='sheet-layout';layout.append(header,body,footer);sheet.append(layout);
