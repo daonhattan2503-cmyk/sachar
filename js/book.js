@@ -5,12 +5,12 @@ let requestedPage=Number(new URL(location.href).searchParams.get('page') || 1)-1
 const mediaAt=number=>config.scenes.filter(s=>s.bookPage===number);
 const pageTitle=(page,index)=>page.title || (index===0?'Bìa sách':'Bìa sau');
 const mascots={
-  2:['👋','bottom-left','Chào cậu! Tớ là Hạt Tí, thám tử hạt. Khóa huấn luyện bắt đầu rồi, cậu cùng tớ đi phá các vụ án nhé!'],
+  2:['👋','bottom-left','Chào cậu! Tớ là Hạt Tí, thám tử hạt. Khóa huấn luyện bắt đầu rồi, cậu cùng tớ đi phá các vụ án nhé!','assets/models/hat-ti-binh-thuong.glb'],
   3:['📱','bottom-right','Cậu hãy dùng điện thoại làm “Kính lúp ma thuật” để giúp tớ nhìn xuyên thấu vật chất nhé!'],
-  4:['🕵️','inline','Lạ thật! Hai thứ này đều là nước, vậy cấu trúc hạt bên trong khác nhau ở đâu nhỉ? Cậu thử dự đoán cùng tớ xem!'],
+  4:['🕵️','inline','Lạ thật! Hai thứ này đều là nước, vậy cấu trúc hạt bên trong khác nhau ở đâu nhỉ? Cậu thử dự đoán cùng tớ xem!','assets/models/hat-ti-suy-nghi.glb'],
   8:['🔎','bottom-right','Tuyệt vời! Vụ án số 1: Tớ và cậu đã phá xong!'],
-  9:['🧢','bottom-left','Nóng quá cậu ơi, tớ sắp tan ra thành nước luôn rồi!'],
-  10:['🧣','bottom-left','Lạnh cóng! Tớ thấy các hạt đang phải xếp sát lại để sưởi ấm cho nhau kìa cậu!'],
+  9:['🧢','bottom-left','Nóng quá cậu ơi, tớ sắp tan ra thành nước luôn rồi!','assets/models/hat-ti-nong-nuc.glb'],
+  10:['🧣','bottom-left','Lạnh cóng! Tớ thấy các hạt đang phải xếp sát lại để sưởi ấm cho nhau kìa cậu!','assets/models/hat-ti-lanh-cong.glb'],
   12:['🔍','bottom-right','Cậu ơi, hay là nước đã ngấm xuyên qua lớp thủy tinh dày để chảy ra ngoài nhỉ... cậu nghĩ tớ đoán thế có đúng không?'],
   15:['🤔','bottom-left','Đều là chuyển từ thể lỏng sang thể khí, nhưng cậu thấy hai quá trình này khác nhau ở đâu? Phơi quần áo hằng ngày là bay hơi hay sôi?'],
   18:['🤫','bottom-left','Nếu bí quá, cậu cứ lật lại trang 11 và 13 để xem gợi ý của tớ nhé, đừng ngại!'],
@@ -45,7 +45,7 @@ function makePage(page,index){
     const content=document.createElement('div');content.className='book-page-content';content.innerHTML=page.content;
     body.append(title,content);for(const scene of mediaAt(index+1))body.append(mediaBox(scene));
     const mascot=mascots[index+1];
-    if(mascot){const figure=document.createElement('aside');figure.className=`hat-ti ${mascot[1]}`;figure.setAttribute('aria-label','Lời thoại của Hạt Tí');figure.innerHTML=`<span aria-hidden="true">${mascot[0]}</span><p>${mascot[2]}</p>`;body.append(figure);}
+    if(mascot){const figure=document.createElement('aside');figure.className=`hat-ti ${mascot[1]}${mascot[3]?' has-model':''}`;figure.setAttribute('aria-label','Lời thoại của Hạt Tí');const avatar=document.createElement('span');avatar.className='hat-ti-avatar';avatar.setAttribute('aria-hidden','true');if(mascot[3]&&window.customElements?.get('model-viewer')){const model=document.createElement('model-viewer');model.src=assetURL(mascot[3]);model.setAttribute('animation-name','TatCaCacHat');model.setAttribute('autoplay','');model.setAttribute('auto-rotate','');model.setAttribute('interaction-prompt','none');model.setAttribute('loading','eager');avatar.append(model);}else avatar.textContent=mascot[0];const speech=document.createElement('p');speech.textContent=mascot[2];figure.append(avatar,speech);body.append(figure);}
     const footer=document.createElement('div');footer.className='sheet-footer';
     const name=document.createElement('span');name.textContent='THẾ GIỚI HẠT · KHTN 6';const n=document.createElement('strong');n.textContent=String(index+1);footer.append(name,n);
     const layout=document.createElement('div');layout.className='sheet-layout';layout.append(header,body,footer);sheet.append(layout);
@@ -92,6 +92,7 @@ window.checkQuiz=(button,correct)=>{
 };
 
 try{
+  try{await import(assetURL('vendor/model-viewer-4.4.0.min.js'));await customElements.whenDefined('model-viewer');}catch{ /* Emoji fallback remains available if the 3D component cannot load. */ }
   config=await loadConfig();const response=await fetch(assetURL('data/book.json'),{cache:'no-store'});
   if(!response.ok)throw new Error('Không đọc được nội dung data/book.json.');
   book=await response.json();if(!Array.isArray(book.pages)||!book.pages.length)throw new Error('Nội dung sách chưa hợp lệ.');
