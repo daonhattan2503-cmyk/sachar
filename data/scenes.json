@@ -8,17 +8,17 @@
       "shortTitle": "Thể rắn",
       "kicker": "01 / BA THỂ CỦA CHẤT",
       "theme": "solid",
-      "description": "Quan sát các hạt xếp sát nhau trong chất rắn.",
-      "observations": ["Các hạt nằm gần nhau và có trật tự.", "Mô hình minh hoạ cho cấu trúc vi mô của chất rắn."],
-      "motionNote": "Mô hình tĩnh.",
+      "description": "Quan sát các hạt xếp sát nhau và dao động tại chỗ trong chất rắn.",
+      "observations": ["Các hạt nằm gần nhau và có trật tự.", "Các hạt chỉ dao động nhẹ quanh vị trí cố định."],
+      "motionNote": "Có hoạt hình minh hoạ dao động của các hạt.",
       "modelSrc": "assets/models/the-ran.glb",
       "iosSrc": "",
       "videoSrc": "",
       "posterSrc": "",
       "defaultView": "3d",
-      "animationName": "",
-      "hasAnimation": false,
-      "sizeLabel": "5,07 MB"
+      "animationName": "TatCaCacHat",
+      "hasAnimation": true,
+      "sizeLabel": "91 KB"
     },
     {
       "id": "the-long",
