@@ -7,7 +7,7 @@ const pageTitle=(page,index)=>page.title || (index===0?'Bìa sách':'Bìa sau');
 const mascots={
   2:['👋','bottom-left','Chào cậu! Tớ là Hạt Tí, thám tử hạt. Khóa huấn luyện bắt đầu rồi, cậu cùng tớ đi phá các vụ án nhé!'],
   3:['📱','bottom-right','Cậu hãy dùng điện thoại làm “Kính lúp ma thuật” để giúp tớ nhìn xuyên thấu vật chất nhé!'],
-  4:['🕵️','center-right','Lạ thật! Hai thứ này đều là nước, vậy cấu trúc hạt bên trong khác nhau ở đâu nhỉ? Cậu thử dự đoán cùng tớ xem!'],
+  4:['🕵️','inline','Lạ thật! Hai thứ này đều là nước, vậy cấu trúc hạt bên trong khác nhau ở đâu nhỉ? Cậu thử dự đoán cùng tớ xem!'],
   8:['🔎','bottom-right','Tuyệt vời! Vụ án số 1: Tớ và cậu đã phá xong!'],
   9:['🧢','bottom-left','Nóng quá cậu ơi, tớ sắp tan ra thành nước luôn rồi!'],
   10:['🧣','bottom-left','Lạnh cóng! Tớ thấy các hạt đang phải xếp sát lại để sưởi ấm cho nhau kìa cậu!'],
