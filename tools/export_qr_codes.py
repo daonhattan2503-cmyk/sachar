@@ -9,11 +9,15 @@ SITE = Path(__file__).resolve().parents[1]
 OUTPUT = SITE / "qr-codes"
 BASE_URL = "https://daonhattan2503-cmyk.github.io/sachar/"
 MODELS = [
+    ("hat-ti-binh-thuong", "HẠT TÍ CHÀO LỚP HỌC", 2),
+    ("hat-ti-suy-nghi", "HẠT TÍ ĐANG SUY NGHĨ", 4),
     ("the-ran", "CẤU TRÚC THỂ RẮN", 5),
     ("the-long", "MÔ HÌNH THỂ LỎNG", 6),
     ("the-khi", "CHUYỂN ĐỘNG THỂ KHÍ", 7),
     ("nong-chay", "SỰ NÓNG CHẢY", 9),
+    ("hat-ti-nong-nuc", "HẠT TÍ ĐANG NÓNG NỰC", 9),
     ("dong-dac", "SỰ ĐÔNG ĐẶC", 10),
+    ("hat-ti-lanh-cong", "HẠT TÍ ĐANG LẠNH CÓNG", 10),
     ("bay-hoi", "SỰ BAY HƠI", 11),
     ("ngung-tu", "SỰ NGƯNG TỤ", 13),
     ("su-soi", "SỰ SÔI", 14),

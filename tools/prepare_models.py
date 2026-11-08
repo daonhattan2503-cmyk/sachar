@@ -22,6 +22,10 @@ MODELS = {
     'lam_nen.glb': 'lam-nen.glb',
     'long-moi.glb': 'the-long.glb',
     'chu-trinh-nuoc.glb': 'chu-trinh-nuoc.glb',
+    'hat_ti_binh_thuong.glb': 'hat-ti-binh-thuong.glb',
+    'hat_ti_suy_nghi.glb': 'hat-ti-suy-nghi.glb',
+    'hat_ti_nong_nuc.glb': 'hat-ti-nong-nuc.glb',
+    'hat_ti_lanh_cong.glb': 'hat-ti-lanh-cong.glb',
 }
 
 # Bản chu trình nước có hai hoạt hình tổng thay thế nhau. Giữ clip idle và

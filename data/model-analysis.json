@@ -3951,5 +3951,336 @@
     "scaleFactor": 0.06583206528161474,
     "maxDimensionMeters": 0.24,
     "mergedOriginalClips": 21
+  },
+  {
+    "original": {
+      "file": "hat_ti_binh_thuong.glb",
+      "bytes": 533796,
+      "meshes": 40,
+      "nodes": 46,
+      "vertices": 12657,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Character",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Hip_L",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Hip_R",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Neck",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shoulder_L",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shoulder_R",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "hat-ti-binh-thuong.glb",
+      "bytes": 533348,
+      "meshes": 40,
+      "nodes": 47,
+      "vertices": 12657,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 6,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -7,
+        -1.4901161193847656e-08,
+        -7
+      ],
+      "max": [
+        7,
+        1.9791941978037357,
+        7
+      ]
+    },
+    "scaleFactor": 0.017142857142857144,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 6
+  },
+  {
+    "original": {
+      "file": "hat_ti_suy_nghi.glb",
+      "bytes": 688724,
+      "meshes": 52,
+      "nodes": 63,
+      "vertices": 16132,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Character.003",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Mark.002",
+          "channels": 2,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Neck.003",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Blink_L.001",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Blink_R.001",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shoulder_L.003",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Elbow_L.002",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shoulder_R.003",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Elbow_R.002",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "hat-ti-suy-nghi.glb",
+      "bytes": 687996,
+      "meshes": 52,
+      "nodes": 64,
+      "vertices": 16132,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 10,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -7,
+        -1.4901161193847656e-08,
+        -7
+      ],
+      "max": [
+        7,
+        2.2865548133850098,
+        7
+      ]
+    },
+    "scaleFactor": 0.017142857142857144,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 9
+  },
+  {
+    "original": {
+      "file": "hat_ti_nong_nuc.glb",
+      "bytes": 804592,
+      "meshes": 71,
+      "nodes": 83,
+      "vertices": 19455,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Character.005",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Motion.001",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Neck.005",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Blink_L.003",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Blink_R.003",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shoulder_L.005",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Elbow_L.004",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Fan_Pivot.001",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shoulder_R.005",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Elbow_R.004",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "hat-ti-nong-nuc.glb",
+      "bytes": 803744,
+      "meshes": 71,
+      "nodes": 84,
+      "vertices": 19455,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 10,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -7,
+        -1.4901161193847656e-08,
+        -7
+      ],
+      "max": [
+        7,
+        1.9928116525534152,
+        7
+      ]
+    },
+    "scaleFactor": 0.017142857142857144,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 10
+  },
+  {
+    "original": {
+      "file": "hat_ti_lanh_cong.glb",
+      "bytes": 768848,
+      "meshes": 60,
+      "nodes": 72,
+      "vertices": 18953,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "Hành Động Character.007",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Neck.007",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Blink_L.005",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Blink_R.005",
+          "channels": 1,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shiver_L.001",
+          "channels": 2,
+          "seconds": 4.041666666666667
+        },
+        {
+          "name": "Hành Động Shiver_R.001",
+          "channels": 2,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "web": {
+      "file": "hat-ti-lanh-cong.glb",
+      "bytes": 768328,
+      "meshes": 60,
+      "nodes": 73,
+      "vertices": 18953,
+      "embeddedImages": 0,
+      "animations": [
+        {
+          "name": "TatCaCacHat",
+          "channels": 8,
+          "seconds": 4.041666666666667
+        }
+      ],
+      "extensionsUsed": []
+    },
+    "originalWorldBounds": {
+      "min": [
+        -7,
+        -0.00150001491419971,
+        -7
+      ],
+      "max": [
+        7,
+        1.9671932263296554,
+        7
+      ]
+    },
+    "scaleFactor": 0.017142857142857144,
+    "maxDimensionMeters": 0.24,
+    "mergedOriginalClips": 6
   }
 ]
