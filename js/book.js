@@ -34,7 +34,7 @@ function mediaBox(scene){
 }
 
 function makePage(page,index){
-  const sheet=document.createElement('article');sheet.className='page-sheet';sheet.dataset.page=String(index+1);sheet.setAttribute('aria-label',`Trang ${index+1}: ${pageTitle(page,index)}`);
+  const sheet=document.createElement('article');sheet.className='page-sheet';if(index===book.pages.length-1)sheet.classList.add('final-sheet');sheet.dataset.page=String(index+1);sheet.setAttribute('aria-label',`Trang ${index+1}: ${pageTitle(page,index)}`);
   if(page.type==='cover'||page.type==='back-cover'){sheet.dataset.density='hard';sheet.innerHTML=page.content;}
   else{
     const header=document.createElement('div');header.className='sheet-header';
