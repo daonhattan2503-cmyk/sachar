@@ -3,7 +3,7 @@
   "pages": [
     {
       "type": "cover",
-      "content": "<div class=\"cover-page detective-cover h-full flex flex-col justify-between p-7 text-center rounded-r-lg shadow-inner\"><div class=\"cover-orbit\">⚛</div><div class=\"my-auto space-y-4\"><p class=\"cover-kicker\">KHOA HỌC TỰ NHIÊN 6 · NĂM 2026</p><h1 class=\"book-font-heading cover-title\">CÁC THỂ CỦA CHẤT<br>VÀ SỰ CHUYỂN THỂ</h1><p class=\"cover-copy\">Cùng Hạt Tí quan sát, đặt câu hỏi và giải mã thế giới hạt.</p><div class=\"cover-mascot\" aria-label=\"Hạt Tí cầm kính lúp\">🕵️<span>⌕</span></div></div><p class=\"cover-foot\">SÁCH KHOA HỌC TƯƠNG TÁC · 3D & AR</p></div>"
+      "content": "<div class=\"cover-page detective-cover\"><p class=\"cover-series\">THẾ GIỚI HẠT · KHOA HỌC TỰ NHIÊN 6</p><div class=\"cover-main\"><p class=\"cover-kicker\">HỒ SƠ KHÁM PHÁ · 2026</p><div class=\"cover-rule\"></div><h1 class=\"book-font-heading cover-title\">CÁC THỂ<br>CỦA CHẤT</h1><p class=\"cover-subtitle\">VÀ SỰ CHUYỂN THỂ</p><p class=\"cover-copy\">Quan sát, đặt câu hỏi và giải mã thế giới hạt cùng Hạt Tí.</p><div class=\"cover-mascot\"><img src=\"assets/hat-ti-cover.png\" alt=\"Hạt Tí cầm kính lúp\"></div></div><p class=\"cover-foot\">SÁCH KHOA HỌC TƯƠNG TÁC · 3D &amp; AR</p></div>"
     },
     {
       "chapter": "PHẦN MỞ ĐẦU",
