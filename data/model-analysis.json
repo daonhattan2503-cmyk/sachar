@@ -3996,7 +3996,7 @@
     },
     "web": {
       "file": "hat-ti-binh-thuong.glb",
-      "bytes": 533348,
+      "bytes": 533380,
       "meshes": 40,
       "nodes": 47,
       "vertices": 12657,
@@ -4012,17 +4012,17 @@
     },
     "originalWorldBounds": {
       "min": [
-        -7,
+        -1.0358592273076448,
         -1.4901161193847656e-08,
-        -7
+        -0.5018274297032007
       ],
       "max": [
-        7,
+        0.5712428923677777,
         1.9791941978037357,
-        7
+        0.5815230111986026
       ]
     },
-    "scaleFactor": 0.017142857142857144,
+    "scaleFactor": 0.12126147017780545,
     "maxDimensionMeters": 0.24,
     "mergedOriginalClips": 6
   },
@@ -4085,7 +4085,7 @@
     },
     "web": {
       "file": "hat-ti-suy-nghi.glb",
-      "bytes": 687996,
+      "bytes": 688032,
       "meshes": 52,
       "nodes": 64,
       "vertices": 16132,
@@ -4101,17 +4101,17 @@
     },
     "originalWorldBounds": {
       "min": [
-        -7,
+        -0.5966335308614088,
         -1.4901161193847656e-08,
-        -7
+        -0.48915670713333725
       ],
       "max": [
-        7,
+        0.6365547776222229,
         2.2865548133850098,
-        7
+        0.5617375871498319
       ]
     },
-    "scaleFactor": 0.017142857142857144,
+    "scaleFactor": 0.10496140176961595,
     "maxDimensionMeters": 0.24,
     "mergedOriginalClips": 9
   },
@@ -4179,7 +4179,7 @@
     },
     "web": {
       "file": "hat-ti-nong-nuc.glb",
-      "bytes": 803744,
+      "bytes": 803776,
       "meshes": 71,
       "nodes": 84,
       "vertices": 19455,
@@ -4195,17 +4195,17 @@
     },
     "originalWorldBounds": {
       "min": [
-        -7,
+        -0.6101177239100437,
         -1.4901161193847656e-08,
-        -7
+        -0.38953039923863114
       ],
       "max": [
-        7,
+        0.5336791628231767,
         1.9928116525534152,
-        7
+        0.6128703929660372
       ]
     },
-    "scaleFactor": 0.017142857142857144,
+    "scaleFactor": 0.12043285570811246,
     "maxDimensionMeters": 0.24,
     "mergedOriginalClips": 10
   },
@@ -4253,7 +4253,7 @@
     },
     "web": {
       "file": "hat-ti-lanh-cong.glb",
-      "bytes": 768328,
+      "bytes": 768360,
       "meshes": 60,
       "nodes": 73,
       "vertices": 18953,
@@ -4269,17 +4269,17 @@
     },
     "originalWorldBounds": {
       "min": [
-        -7,
+        -0.5023724579308815,
         -0.00150001491419971,
-        -7
+        -0.4253774900657293
       ],
       "max": [
-        7,
+        0.5080555105146891,
         1.9671932263296554,
-        7
+        0.5860912798507572
       ]
     },
-    "scaleFactor": 0.017142857142857144,
+    "scaleFactor": 0.12190827650140341,
     "maxDimensionMeters": 0.24,
     "mergedOriginalClips": 6
   }

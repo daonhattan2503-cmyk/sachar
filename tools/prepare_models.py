@@ -34,6 +34,15 @@ IGNORED_ANIMATIONS = {
     'chu-trinh-nuoc.glb': {'idle_with_info'},
 }
 
+# Các mô hình Hạt Tí có một mặt phẳng nền riêng. Trang sách chỉ cần nhân vật,
+# vì vậy giữ nguyên dữ liệu nguồn nhưng bỏ mặt phẳng này khỏi scene web.
+HIDDEN_SCENE_NODES = {
+    'hat_ti_binh_thuong.glb': {'Bình Diện'},
+    'hat_ti_suy_nghi.glb': {'Bình Diện'},
+    'hat_ti_nong_nuc.glb': {'Bình Diện'},
+    'hat_ti_lanh_cong.glb': {'Bình Diện'},
+}
+
 
 def read_glb(path):
     blob = path.read_bytes()
@@ -118,6 +127,14 @@ def merge_animations(data, ignored_names=()):
     return len(old)
 
 
+def hide_scene_nodes(data, names):
+    if not names:
+        return
+    for scene in data['scenes']:
+        scene['nodes'] = [index for index in scene.get('nodes', [])
+                          if data['nodes'][index].get('name') not in names]
+
+
 def describe(path, data):
     acc = data.get('accessors', [])
     return {
@@ -140,6 +157,7 @@ def main():
         source = SOURCE / source_name
         data, chunks = read_glb(source)
         original = describe(source, data)
+        hide_scene_nodes(data, HIDDEN_SCENE_NODES.get(source_name, set()))
         lo, hi = world_bounds(data)
         factor = 0.24 / max(hi[i] - lo[i] for i in range(3))
         old_clips = merge_animations(data, IGNORED_ANIMATIONS.get(source_name, set()))
