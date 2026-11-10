@@ -2,6 +2,7 @@ import {loadConfig, assetURL, sceneURL, inferredPublicBase, renderQR, saveQR, co
 
 const $ = id => document.getElementById(id);
 let scene, config, viewer, ready=false, playing=true, currentMode='3d', timeout, shareCanvas;
+const MODEL_VERSION = '20261110b';
 
 function updateAR() {
   const button=$('activate-ar');
@@ -45,7 +46,7 @@ async function mountModel() {
     mv.setAttribute('ar-modes','webxr scene-viewer quick-look');mv.setAttribute('ar-placement','floor');
     mv.setAttribute('loading','eager');
     if(scene.posterSrc)mv.setAttribute('poster',assetURL(scene.posterSrc));
-    if(scene.iosSrc)mv.setAttribute('ios-src',assetURL(scene.iosSrc));
+    if(scene.iosSrc)mv.setAttribute('ios-src',`${assetURL(scene.iosSrc)}?v=${MODEL_VERSION}`);
     if(scene.animationName)mv.setAttribute('animation-name',scene.animationName);
     // Keep the same animation running when the model moves into WebXR or Scene Viewer AR.
     if(scene.hasAnimation)mv.setAttribute('autoplay','');
@@ -76,7 +77,7 @@ async function mountModel() {
       if(event.detail.status==='failed')$('ar-status').textContent='Chưa mở được AR. Hãy thử trình duyệt hệ thống, kiểm tra quyền camera hoặc tiếp tục xem 3D.';
       if(event.detail.status==='not-presenting')updateAR();
     });
-    mv.setAttribute('src',`${assetURL(scene.modelSrc)}?v=20261110`);
+    mv.setAttribute('src',`${assetURL(scene.modelSrc)}?v=${MODEL_VERSION}`);
     $('viewer-mount').replaceChildren(mv);
   } catch(error) {modelError(`Chưa tải được trình xem 3D. Hãy kiểm tra thư mục vendor hoặc tải lại trang. ${error.message}`);}
 }

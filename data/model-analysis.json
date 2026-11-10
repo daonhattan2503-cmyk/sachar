@@ -3041,721 +3041,396 @@
   {
     "original": {
       "file": "suong_mu.glb",
-      "bytes": 9351428,
-      "meshes": 137,
-      "nodes": 137,
-      "vertices": 268224,
+      "bytes": 1023116,
+      "meshes": 84,
+      "nodes": 86,
+      "vertices": 13746,
       "embeddedImages": 0,
       "animations": [
         {
-          "name": "Hành Động Hình Cầu",
+          "name": "Hành Động Atom_00.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.001",
+          "name": "Hành Động Atom_01.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.002",
+          "name": "Hành Động Atom_02.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.003",
+          "name": "Hành Động Atom_03.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.004",
+          "name": "Hành Động Atom_04.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.005",
+          "name": "Hành Động Atom_05.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.006",
+          "name": "Hành Động Atom_06.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.007",
+          "name": "Hành Động Atom_07.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.008",
+          "name": "Hành Động Atom_08.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.009",
+          "name": "Hành Động Atom_09.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.010",
+          "name": "Hành Động Atom_10.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.011",
+          "name": "Hành Động Atom_11.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.012",
+          "name": "Hành Động Atom_12.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.013",
+          "name": "Hành Động Atom_13.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.014",
+          "name": "Hành Động Atom_14.002",
           "channels": 2,
-          "seconds": 5
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.015",
+          "name": "Hành Động Atom_15.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.016",
+          "name": "Hành Động Atom_16.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.017",
+          "name": "Hành Động Atom_17.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.018",
+          "name": "Hành Động Atom_18.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.019",
+          "name": "Hành Động Atom_19.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.020",
+          "name": "Hành Động Atom_20.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.021",
+          "name": "Hành Động Atom_21.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.022",
+          "name": "Hành Động Atom_22.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.023",
+          "name": "Hành Động Atom_23.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.024",
+          "name": "Hành Động Atom_24.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.025",
+          "name": "Hành Động Atom_25.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.026",
+          "name": "Hành Động Atom_26.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.027",
+          "name": "Hành Động Atom_27.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.028",
+          "name": "Hành Động Atom_28.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.029",
+          "name": "Hành Động Atom_29.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.030",
+          "name": "Hành Động Atom_30.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.031",
+          "name": "Hành Động Atom_31.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.032",
+          "name": "Hành Động Atom_32.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.033",
+          "name": "Hành Động Atom_33.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.034",
+          "name": "Hành Động Atom_34.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.035",
+          "name": "Hành Động Atom_35.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.036",
+          "name": "Hành Động Atom_36.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.037",
+          "name": "Hành Động Atom_37.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.038",
+          "name": "Hành Động Atom_38.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.039",
+          "name": "Hành Động Atom_39.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.040",
+          "name": "Hành Động Atom_40.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.041",
+          "name": "Hành Động Atom_41.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.042",
+          "name": "Hành Động Atom_42.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.043",
+          "name": "Hành Động Atom_43.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.044",
+          "name": "Hành Động Atom_44.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.045",
+          "name": "Hành Động Atom_45.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.046",
+          "name": "Hành Động Atom_46.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.047",
+          "name": "Hành Động Atom_47.002",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.048",
+          "name": "Hành Động Atom_48",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.049",
+          "name": "Hành Động Atom_49",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.050",
+          "name": "Hành Động Atom_50",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.051",
+          "name": "Hành Động Atom_51",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.052",
+          "name": "Hành Động Atom_52",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.053",
+          "name": "Hành Động Atom_53",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.054",
+          "name": "Hành Động Atom_54",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.055",
+          "name": "Hành Động Atom_55",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.056",
+          "name": "Hành Động Atom_56",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.057",
+          "name": "Hành Động Atom_57",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.058",
+          "name": "Hành Động Atom_58",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.059",
+          "name": "Hành Động Atom_59",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.060",
+          "name": "Hành Động Atom_60",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.061",
+          "name": "Hành Động Atom_61",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.062",
+          "name": "Hành Động Atom_62",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.063",
+          "name": "Hành Động Atom_63",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.064",
+          "name": "Hành Động Atom_64",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.065",
+          "name": "Hành Động Atom_65",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.066",
+          "name": "Hành Động Atom_66",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.067",
+          "name": "Hành Động Atom_67",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.068",
+          "name": "Hành Động Atom_68",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         },
         {
-          "name": "Hành Động Hình Cầu.069",
+          "name": "Hành Động Atom_69",
           "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.070",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.071",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.072",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.073",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.074",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.075",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.076",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.077",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.078",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.079",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.080",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.081",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.082",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.083",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.084",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.085",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.086",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.087",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.088",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.089",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.090",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.091",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.092",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.093",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.094",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.095",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.096",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.097",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.098",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.099",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.100",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.101",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.102",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.103",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.104",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.105",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.106",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.107",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.108",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.109",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.110",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.111",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.112",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.113",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.114",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.115",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.116",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.117",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.118",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.119",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.120",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.121",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.122",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.123",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.124",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.125",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.126",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.127",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.128",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.129",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.130",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.131",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.132",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.133",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động Hình Cầu.134",
-          "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 22.416666666666668
         }
       ],
       "extensionsUsed": []
     },
     "web": {
       "file": "suong-mu.glb",
-      "bytes": 9338680,
-      "meshes": 137,
-      "nodes": 138,
-      "vertices": 268224,
+      "bytes": 1017720,
+      "meshes": 84,
+      "nodes": 87,
+      "vertices": 13746,
       "embeddedImages": 0,
       "animations": [
         {
           "name": "TatCaCacHat",
-          "channels": 270,
-          "seconds": 8.333333333333334
+          "channels": 140,
+          "seconds": 22.416666666666668
         }
       ],
       "extensionsUsed": []
     },
     "originalWorldBounds": {
       "min": [
-        -2.5,
-        -2.5000000968575478,
-        -2.5
+        -5.199999809265137,
+        -0.019999999552965164,
+        -5.009999930858612
       ],
       "max": [
-        2.5,
-        2.5,
-        2.5
+        5.199999809265137,
+        7.9533385038375854,
+        4.600000083446503
       ]
     },
-    "scaleFactor": 0.04799999907016756,
+    "scaleFactor": 0.0230769239233796,
     "maxDimensionMeters": 0.24,
-    "mergedOriginalClips": 135
+    "mergedOriginalClips": 70
   },
   {
     "original": {
@@ -4769,787 +4444,755 @@
   {
     "original": {
       "file": "lam_muoi_tu_nuoc_bien.glb",
-      "bytes": 2875584,
-      "meshes": 114,
-      "nodes": 114,
-      "vertices": 62071,
+      "bytes": 1058980,
+      "meshes": 102,
+      "nodes": 104,
+      "vertices": 30819,
       "embeddedImages": 0,
       "animations": [
         {
-          "name": "Hành Động BeMatMuoi",
+          "name": "Hành Động Salt_00.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi",
+          "name": "Hành Động Salt_01.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.001",
+          "name": "Hành Động Salt_02.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.002",
+          "name": "Hành Động Salt_03.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.003",
+          "name": "Hành Động Salt_04.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.004",
+          "name": "Hành Động Salt_05.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.005",
+          "name": "Hành Động Salt_06.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.006",
+          "name": "Hành Động Salt_07.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.007",
+          "name": "Hành Động Salt_08.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.008",
+          "name": "Hành Động Salt_09.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.009",
+          "name": "Hành Động Salt_10.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.010",
+          "name": "Hành Động Salt_11.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.011",
+          "name": "Hành Động Salt_12.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.012",
+          "name": "Hành Động Salt_13.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.013",
+          "name": "Hành Động Salt_14.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.014",
+          "name": "Hành Động Salt_15.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.015",
+          "name": "Hành Động Salt_16.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.016",
+          "name": "Hành Động Salt_17.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.017",
+          "name": "Hành Động Salt_18.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.018",
+          "name": "Hành Động Salt_19.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.019",
+          "name": "Hành Động Water_00.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.020",
+          "name": "Hành Động Water_01.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.021",
+          "name": "Hành Động Water_02.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.022",
+          "name": "Hành Động Water_03.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.023",
+          "name": "Hành Động Water_04.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.024",
+          "name": "Hành Động Water_05.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.025",
+          "name": "Hành Động Water_06.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.026",
+          "name": "Hành Động Water_07.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.027",
+          "name": "Hành Động Water_08.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.028",
+          "name": "Hành Động Water_09.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.029",
+          "name": "Hành Động Water_10.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.030",
+          "name": "Hành Động Water_11.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.031",
+          "name": "Hành Động Water_12.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.032",
+          "name": "Hành Động Water_13.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.033",
+          "name": "Hành Động Water_14.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.034",
+          "name": "Hành Động Water_15.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.035",
+          "name": "Hành Động Water_16.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.036",
+          "name": "Hành Động Water_17.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.037",
+          "name": "Hành Động Water_18.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.038",
+          "name": "Hành Động Water_19.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.039",
+          "name": "Hành Động Water_20.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.040",
+          "name": "Hành Động Water_21.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.041",
+          "name": "Hành Động Water_22.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.042",
+          "name": "Hành Động Water_23.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.043",
+          "name": "Hành Động Water_24.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.044",
+          "name": "Hành Động Water_25.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.045",
+          "name": "Hành Động Water_26.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.046",
+          "name": "Hành Động Water_27.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.047",
+          "name": "Hành Động Water_28.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.048",
+          "name": "Hành Động Water_29.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.049",
+          "name": "Hành Động Water_30.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.050",
+          "name": "Hành Động Water_31.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.051",
+          "name": "Hành Động Water_32.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.052",
+          "name": "Hành Động Water_33.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.053",
+          "name": "Hành Động Water_34.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.054",
+          "name": "Hành Động Water_35.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.055",
+          "name": "Hành Động Water_36.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.056",
+          "name": "Hành Động Water_37.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.057",
+          "name": "Hành Động Water_38.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.058",
+          "name": "Hành Động Water_39.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.059",
+          "name": "Hành Động Water_40.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.060",
+          "name": "Hành Động Water_41.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.061",
+          "name": "Hành Động Water_42.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.062",
+          "name": "Hành Động Water_43.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.063",
+          "name": "Hành Động Water_44.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.064",
+          "name": "Hành Động Water_45.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.065",
+          "name": "Hành Động Water_46.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.066",
+          "name": "Hành Động Water_47.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.067",
+          "name": "Hành Động Water_48.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.068",
+          "name": "Hành Động Water_49.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.069",
+          "name": "Hành Động Water_50.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.070",
+          "name": "Hành Động Water_51.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.071",
+          "name": "Hành Động Water_52.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.072",
+          "name": "Hành Động Water_53.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.073",
+          "name": "Hành Động Water_54.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.074",
+          "name": "Hành Động Water_55.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.075",
+          "name": "Hành Động Water_56.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.076",
+          "name": "Hành Động Water_57.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.077",
+          "name": "Hành Động Water_58.001",
           "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         },
         {
-          "name": "Hành Động HatMuoi.078",
+          "name": "Hành Động Water_59.001",
           "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HatMuoi.079",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.001",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.002",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.003",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.004",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.005",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.006",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.007",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.008",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.009",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.010",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.011",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.012",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.013",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.014",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.015",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.016",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.017",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.018",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.019",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.020",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.021",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.022",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.023",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.024",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.025",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.026",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.027",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.028",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động HoiNuoc.029",
-          "channels": 2,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động NuocBien",
-          "channels": 2,
-          "seconds": 8.333333333333334
+          "seconds": 16.583333333333332
         }
       ],
-      "extensionsUsed": [
-        "KHR_materials_clearcoat",
-        "KHR_materials_emissive_strength"
-      ]
+      "extensionsUsed": []
     },
     "web": {
       "file": "lam-muoi-tu-nuoc-bien.glb",
-      "bytes": 2866460,
-      "meshes": 114,
-      "nodes": 115,
-      "vertices": 62071,
+      "bytes": 1052348,
+      "meshes": 102,
+      "nodes": 105,
+      "vertices": 30819,
       "embeddedImages": 0,
       "animations": [
         {
           "name": "TatCaCacHat",
-          "channels": 224,
-          "seconds": 8.333333333333334
+          "channels": 160,
+          "seconds": 16.583333333333332
         }
       ],
-      "extensionsUsed": [
-        "KHR_materials_clearcoat",
-        "KHR_materials_emissive_strength"
-      ]
+      "extensionsUsed": []
     },
     "originalWorldBounds": {
       "min": [
-        -3.0,
-        -0.9500000178813934,
-        -4.5
+        -17.59999990463257,
+        -0.3499999940395355,
+        -20.0
       ],
       "max": [
-        4.499999701976776,
-        5.0,
-        3.0
+        22.40000009536743,
+        9.200000375509262,
+        20.0
       ]
     },
-    "scaleFactor": 0.032,
+    "scaleFactor": 0.006,
     "maxDimensionMeters": 0.24,
-    "mergedOriginalClips": 112
+    "mergedOriginalClips": 80
   },
   {
     "original": {
       "file": "lam_nen.glb",
-      "bytes": 536032,
-      "meshes": 28,
-      "nodes": 28,
-      "vertices": 12216,
+      "bytes": 572008,
+      "meshes": 65,
+      "nodes": 68,
+      "vertices": 18412,
       "embeddedImages": 0,
       "animations": [
         {
-          "name": "Hành Động BatTron_HoMieng.002",
+          "name": "Hành Động Atom_00.001",
           "channels": 2,
-          "seconds": 10
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động DongNuocSap.003",
-          "channels": 1,
-          "seconds": 8.333333333333334
-        },
-        {
-          "name": "Hành Động NgonLua.007",
-          "channels": 1,
-          "seconds": 10.416666666666666
-        },
-        {
-          "name": "Hành Động SapTrongBat.003",
-          "channels": 3,
-          "seconds": 7.916666666666667
-        },
-        {
-          "name": "Hành Động SapTrongKhuon.006",
+          "name": "Hành Động Atom_01.001",
           "channels": 2,
-          "seconds": 7.916666666666667
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.080",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_02.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.081",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_03.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.082",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_04.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.083",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_05.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.084",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_06.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.085",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_07.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.086",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_08.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.087",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_09.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.088",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_10.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.089",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_11.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.090",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_12.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.091",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_13.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.092",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_14.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.093",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_15.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.094",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_16.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.095",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_17.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.096",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_18.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.097",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_19.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.098",
-          "channels": 1,
-          "seconds": 2.9166666666666665
+          "name": "Hành Động Atom_20.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         },
         {
-          "name": "Hành Động Vun.099",
+          "name": "Hành Động Atom_21.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_22.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_23.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_24.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_25.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_26.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_27.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_28.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_29.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_30.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_31.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_32.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_33.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_34.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_35.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_36.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_37.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_38.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_39.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_40.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_41.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_42.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_43.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_44.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_45.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_46.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Atom_47.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Flame_0.001",
           "channels": 1,
-          "seconds": 2.9166666666666665
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Flame_1.001",
+          "channels": 1,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Flame_2.001",
+          "channels": 1,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Hình Nón.001",
+          "channels": 1,
+          "seconds": 31.583333333333332
+        },
+        {
+          "name": "Hành Động Pot.001",
+          "channels": 2,
+          "seconds": 31.583333333333332
         }
       ],
-      "extensionsUsed": [
-        "KHR_materials_clearcoat",
-        "KHR_materials_emissive_strength"
-      ]
+      "extensionsUsed": []
     },
     "web": {
       "file": "lam-nen.glb",
-      "bytes": 534308,
-      "meshes": 28,
-      "nodes": 29,
-      "vertices": 12216,
+      "bytes": 567804,
+      "meshes": 65,
+      "nodes": 69,
+      "vertices": 18412,
       "embeddedImages": 0,
       "animations": [
         {
           "name": "TatCaCacHat",
-          "channels": 29,
-          "seconds": 10.416666666666666
+          "channels": 102,
+          "seconds": 31.583333333333332
         }
       ],
-      "extensionsUsed": [
-        "KHR_materials_clearcoat",
-        "KHR_materials_emissive_strength"
-      ]
+      "extensionsUsed": []
     },
     "originalWorldBounds": {
       "min": [
-        -3.5,
-        -2.0000000596046448,
-        -1.2999999523162842
+        -20.600000023841858,
+        -0.10000000149011612,
+        -20.0
       ],
       "max": [
-        3.100000023841858,
-        0.40000003576278687,
-        1.2999999523162842
+        19.399999976158142,
+        3.1999999284744263,
+        20.0
       ]
     },
-    "scaleFactor": 0.036363636232276265,
+    "scaleFactor": 0.006,
     "maxDimensionMeters": 0.24,
-    "mergedOriginalClips": 25
+    "mergedOriginalClips": 53
   },
   {
     "original": {
