@@ -115,7 +115,6 @@ try {
   $('scene-description').textContent=scene.description || '';$('motion-note').textContent=scene.motionNote || '';
   for(const text of scene.observations || []){const li=document.createElement('li');li.textContent=text;$('observations').append(li);}
   $('model-stage').classList.toggle('solid',scene.theme==='solid');
-  $('model-file').href=assetURL(scene.modelSrc);
   const other=config.scenes.find(item=>item.id!==scene.id);
   if(other){$('other-model').href=sceneURL(other.id);$('other-model').textContent=`${other.shortTitle || other.title} →`;}
   if(scene.videoSrc){$('tab-video').hidden=false;if(scene.posterSrc)$('fallback-video').poster=assetURL(scene.posterSrc);}
