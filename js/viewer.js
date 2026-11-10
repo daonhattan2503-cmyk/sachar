@@ -47,6 +47,8 @@ async function mountModel() {
     if(scene.posterSrc)mv.setAttribute('poster',assetURL(scene.posterSrc));
     if(scene.iosSrc)mv.setAttribute('ios-src',assetURL(scene.iosSrc));
     if(scene.animationName)mv.setAttribute('animation-name',scene.animationName);
+    // Keep the same animation running when the model moves into WebXR or Scene Viewer AR.
+    if(scene.hasAnimation)mv.setAttribute('autoplay','');
     // Hide only the default button; our visible AR button uses the public activateAR API.
     const hiddenButton=document.createElement('button');hiddenButton.slot='ar-button';hiddenButton.hidden=true;hiddenButton.setAttribute('aria-hidden','true');mv.append(hiddenButton);
     mv.addEventListener('progress',event=>{if(viewer!==mv)return;const value=event.detail.totalProgress;$('load-progress').value=value;$('load-label').textContent=value<1?`Đang tải mô hình · ${Math.round(value*100)}%`:'Đang chuẩn bị hình ảnh…';});
@@ -70,6 +72,7 @@ async function mountModel() {
     mv.addEventListener('error',()=>{if(viewer===mv)modelError('Kiểm tra kết nối và tệp mô hình trong assets/models. Em có thể tải lại hoặc xem video thay thế nếu có.');});
     mv.addEventListener('ar-status',event=>{
       if(viewer!==mv)return;
+      if(event.detail.status==='session-started'&&scene.hasAnimation){playing=true;mv.play();$('animation-toggle').textContent='Tạm dừng chuyển động';}
       if(event.detail.status==='failed')$('ar-status').textContent='Chưa mở được AR. Hãy thử trình duyệt hệ thống, kiểm tra quyền camera hoặc tiếp tục xem 3D.';
       if(event.detail.status==='not-presenting')updateAR();
     });
@@ -124,6 +127,7 @@ try {
   $('activate-ar').addEventListener('click',()=>{
     if(!ready||!viewer?.canActivateAR)return;
     // Must call synchronously within the user's gesture for native AR launchers.
+    if(scene.hasAnimation){playing=true;viewer.play();$('animation-toggle').textContent='Tạm dừng chuyển động';}
     viewer.activateAR().catch(()=>{$('ar-status').textContent='Chưa mở được AR. Hãy kiểm tra thiết bị, trình duyệt và quyền camera. Em vẫn có thể xem 3D.';});
   });
   $('tab-3d').addEventListener('click',()=>switchMode('3d'));
