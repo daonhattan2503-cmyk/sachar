@@ -37,7 +37,7 @@
       "defaultView": "3d",
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "5,14 MB"
+      "sizeLabel": "0,54 MB"
     },
     {
       "id": "the-khi",
@@ -56,7 +56,7 @@
       "defaultView": "3d",
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "3,42 MB"
+      "sizeLabel": "0,62 MB"
     },
     {
       "id": "nong-chay",
@@ -75,7 +75,7 @@
       "defaultView": "3d",
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "2,10 MB"
+      "sizeLabel": "0,42 MB"
     },
     {
       "id": "dong-dac",
@@ -94,7 +94,7 @@
       "defaultView": "3d",
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "9,90 MB"
+      "sizeLabel": "0,44 MB"
     },
     {
       "id": "bay-hoi",
@@ -113,7 +113,7 @@
       "defaultView": "3d",
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "1,84 MB"
+      "sizeLabel": "0,52 MB"
     },
     {
       "id": "suong-mu",
@@ -144,14 +144,14 @@
       "description": "Quan sát hơi nước gặp lạnh ngưng tụ thành những giọt nước nhỏ.",
       "observations": ["Hơi nước chuyển từ thể khí sang thể lỏng.", "Các hạt hơi nước xích lại gần nhau khi gặp lạnh."],
       "motionNote": "Có hoạt hình minh hoạ sự ngưng tụ.",
-      "modelSrc": "assets/models/suong-mu.glb",
+      "modelSrc": "assets/models/ngung-tu.glb",
       "iosSrc": "",
       "videoSrc": "",
       "posterSrc": "",
       "defaultView": "3d",
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "8,90 MB"
+      "sizeLabel": "1,26 MB"
     },
     {
       "id": "su-soi",
@@ -170,7 +170,7 @@
       "defaultView": "3d",
       "animationName": "TatCaCacHat",
       "hasAnimation": true,
-      "sizeLabel": "1,95 MB"
+      "sizeLabel": "1,37 MB"
     },
     {
       "id": "chu-trinh-nuoc",

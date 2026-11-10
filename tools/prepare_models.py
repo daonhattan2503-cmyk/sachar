@@ -16,6 +16,7 @@ MODELS = {
     'nong_chay.glb': 'nong-chay.glb',
     'dong_dac.glb': 'dong-dac.glb',
     'bay_hoi.glb': 'bay-hoi.glb',
+    'su_ngung_tu.glb': 'ngung-tu.glb',
     'suong_mu.glb': 'suong-mu.glb',
     'su_soi.glb': 'su-soi.glb',
     'lam_muoi_tu_nuoc_bien.glb': 'lam-muoi-tu-nuoc-bien.glb',

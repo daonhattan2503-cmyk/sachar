@@ -31,7 +31,7 @@ function readGLB(file) {
 }
 const sourceNames={
   'the-ran':'ran.glb','the-long':'long-moi.glb','the-khi':'khi.glb','nong-chay':'nong_chay.glb','dong-dac':'dong_dac.glb',
-  'bay-hoi':'bay_hoi.glb','suong-mu':'suong_mu.glb','ngung-tu':'suong_mu.glb','su-soi':'su_soi.glb','chu-trinh-nuoc':'chu-trinh-nuoc.glb','lam-muoi-tu-nuoc-bien':'lam_muoi_tu_nuoc_bien.glb','lam-nen':'lam_nen.glb'
+  'bay-hoi':'bay_hoi.glb','suong-mu':'suong_mu.glb','ngung-tu':'su_ngung_tu.glb','su-soi':'su_soi.glb','chu-trinh-nuoc':'chu-trinh-nuoc.glb','lam-muoi-tu-nuoc-bien':'lam_muoi_tu_nuoc_bien.glb','lam-nen':'lam_nen.glb'
 };
 for(const scene of config.scenes) {
   const model=readGLB(path.join(site,scene.modelSrc));assert.ok(model.bytes>0);

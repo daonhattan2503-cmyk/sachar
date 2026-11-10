@@ -73,7 +73,7 @@ async function mountModel() {
       if(event.detail.status==='failed')$('ar-status').textContent='Chưa mở được AR. Hãy thử trình duyệt hệ thống, kiểm tra quyền camera hoặc tiếp tục xem 3D.';
       if(event.detail.status==='not-presenting')updateAR();
     });
-    mv.setAttribute('src',assetURL(scene.modelSrc));
+    mv.setAttribute('src',`${assetURL(scene.modelSrc)}?v=20261110`);
     $('viewer-mount').replaceChildren(mv);
   } catch(error) {modelError(`Chưa tải được trình xem 3D. Hãy kiểm tra thư mục vendor hoặc tải lại trang. ${error.message}`);}
 }
