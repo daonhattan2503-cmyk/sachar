@@ -116,8 +116,10 @@ try {
   $('scene-description').textContent=scene.description || '';$('motion-note').textContent=scene.motionNote || '';
   for(const text of scene.observations || []){const li=document.createElement('li');li.textContent=text;$('observations').append(li);}
   $('model-stage').classList.toggle('solid',scene.theme==='solid');
-  const other=config.scenes.find(item=>item.id!==scene.id);
-  if(other){$('other-model').href=sceneURL(other.id);$('other-model').textContent=`${other.shortTitle || other.title} →`;}
+  const orderedScenes=[...config.scenes].sort((a,b)=>a.bookPage-b.bookPage || a.id.localeCompare(b.id));
+  const currentIndex=orderedScenes.findIndex(item=>item.id===scene.id);
+  const nextScene=orderedScenes.length>1?orderedScenes[(currentIndex+1)%orderedScenes.length]:null;
+  if(nextScene){$('other-model').href=sceneURL(nextScene.id);$('other-model').textContent=`${nextScene.shortTitle || nextScene.title} →`;}
   if(scene.videoSrc){$('tab-video').hidden=false;if(scene.posterSrc)$('fallback-video').poster=assetURL(scene.posterSrc);}
   $('viewer-content').hidden=false;
   $('retry').addEventListener('click',()=>{if(!customElements.get('model-viewer'))location.reload();else mountModel();});
